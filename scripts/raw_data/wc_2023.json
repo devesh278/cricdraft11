@@ -1,0 +1,10454 @@
+{
+ "tournament": "ICC Cricket World Cup 2023",
+ "year": 2023,
+ "format": "ODI",
+ "matches": [
+  {
+   "id": "1384392",
+   "date": "2023-10-05",
+   "match_number": 1,
+   "stage": "league",
+   "teams": [
+    "England",
+    "New Zealand"
+   ],
+   "winner": "New Zealand",
+   "margin": {
+    "wickets": 9
+   },
+   "player_of_match": [
+    "R Ravindra"
+   ],
+   "playing_xi": {
+    "England": [
+     "JM Bairstow",
+     "DJ Malan",
+     "JE Root",
+     "HC Brook",
+     "MM Ali",
+     "JC Buttler",
+     "LS Livingstone",
+     "SM Curran",
+     "CR Woakes",
+     "AU Rashid",
+     "MA Wood"
+    ],
+    "New Zealand": [
+     "DP Conway",
+     "WA Young",
+     "R Ravindra",
+     "DJ Mitchell",
+     "TWM Latham",
+     "GD Phillips",
+     "MS Chapman",
+     "JDS Neesham",
+     "MJ Santner",
+     "MJ Henry",
+     "TA Boult"
+    ]
+   },
+   "innings": [
+    {
+     "team": "England",
+     "runs": 282,
+     "wickets": 9,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "JM Bairstow",
+       "runs": 33,
+       "balls": 35,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "DJ Malan",
+       "runs": 14,
+       "balls": 24,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "JE Root",
+       "runs": 77,
+       "balls": 86,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "HC Brook",
+       "runs": 25,
+       "balls": 16,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "MM Ali",
+       "runs": 11,
+       "balls": 17,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "JC Buttler",
+       "runs": 43,
+       "balls": 42,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "LS Livingstone",
+       "runs": 20,
+       "balls": 22,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "SM Curran",
+       "runs": 14,
+       "balls": 19,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "CR Woakes",
+       "runs": 11,
+       "balls": 12,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "AU Rashid",
+       "runs": 15,
+       "balls": 13,
+       "out": false
+      },
+      {
+       "pos": 11,
+       "name": "MA Wood",
+       "runs": 13,
+       "balls": 14,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "TA Boult",
+       "balls": 60,
+       "runs": 48,
+       "wickets": 1
+      },
+      {
+       "name": "MJ Henry",
+       "balls": 60,
+       "runs": 48,
+       "wickets": 3
+      },
+      {
+       "name": "MJ Santner",
+       "balls": 60,
+       "runs": 37,
+       "wickets": 2
+      },
+      {
+       "name": "JDS Neesham",
+       "balls": 42,
+       "runs": 56,
+       "wickets": 0
+      },
+      {
+       "name": "R Ravindra",
+       "balls": 60,
+       "runs": 76,
+       "wickets": 1
+      },
+      {
+       "name": "GD Phillips",
+       "balls": 18,
+       "runs": 17,
+       "wickets": 2
+      }
+     ]
+    },
+    {
+     "team": "New Zealand",
+     "runs": 283,
+     "wickets": 1,
+     "overs": "36.2",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "DP Conway",
+       "runs": 152,
+       "balls": 121,
+       "out": false
+      },
+      {
+       "pos": 2,
+       "name": "WA Young",
+       "runs": 0,
+       "balls": 1,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "R Ravindra",
+       "runs": 123,
+       "balls": 96,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "CR Woakes",
+       "balls": 36,
+       "runs": 45,
+       "wickets": 0
+      },
+      {
+       "name": "SM Curran",
+       "balls": 36,
+       "runs": 47,
+       "wickets": 1
+      },
+      {
+       "name": "MA Wood",
+       "balls": 30,
+       "runs": 55,
+       "wickets": 0
+      },
+      {
+       "name": "MM Ali",
+       "balls": 56,
+       "runs": 60,
+       "wickets": 0
+      },
+      {
+       "name": "AU Rashid",
+       "balls": 42,
+       "runs": 47,
+       "wickets": 0
+      },
+      {
+       "name": "LS Livingstone",
+       "balls": 18,
+       "runs": 24,
+       "wickets": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384393",
+   "date": "2023-10-06",
+   "match_number": 2,
+   "stage": "league",
+   "teams": [
+    "Pakistan",
+    "Netherlands"
+   ],
+   "winner": "Pakistan",
+   "margin": {
+    "runs": 81
+   },
+   "player_of_match": [
+    "Saud Shakeel"
+   ],
+   "playing_xi": {
+    "Pakistan": [
+     "Fakhar Zaman",
+     "Imam-ul-Haq",
+     "Babar Azam",
+     "Mohammad Rizwan",
+     "Saud Shakeel",
+     "Iftikhar Ahmed",
+     "Mohammad Nawaz",
+     "Shadab Khan",
+     "Hasan Ali",
+     "Shaheen Shah Afridi",
+     "Haris Rauf"
+    ],
+    "Netherlands": [
+     "Vikramjit Singh",
+     "MP O'Dowd",
+     "CN Ackermann",
+     "BFW de Leede",
+     "AT Nidamanuru",
+     "SA Edwards",
+     "Saqib Zulfiqar",
+     "RE van der Merwe",
+     "LV van Beek",
+     "A Dutt",
+     "PA van Meekeren"
+    ]
+   },
+   "innings": [
+    {
+     "team": "Pakistan",
+     "runs": 286,
+     "wickets": 10,
+     "overs": "48.5",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Fakhar Zaman",
+       "runs": 12,
+       "balls": 15,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Imam-ul-Haq",
+       "runs": 15,
+       "balls": 19,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "Babar Azam",
+       "runs": 5,
+       "balls": 18,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "Mohammad Rizwan",
+       "runs": 68,
+       "balls": 75,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "Saud Shakeel",
+       "runs": 68,
+       "balls": 52,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "Iftikhar Ahmed",
+       "runs": 9,
+       "balls": 11,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "Mohammad Nawaz",
+       "runs": 39,
+       "balls": 43,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "Shadab Khan",
+       "runs": 32,
+       "balls": 34,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "Hasan Ali",
+       "runs": 0,
+       "balls": 1,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "Shaheen Shah Afridi",
+       "runs": 13,
+       "balls": 12,
+       "out": false
+      },
+      {
+       "pos": 11,
+       "name": "Haris Rauf",
+       "runs": 16,
+       "balls": 14,
+       "out": true
+      }
+     ],
+     "bowling": [
+      {
+       "name": "A Dutt",
+       "balls": 60,
+       "runs": 48,
+       "wickets": 1
+      },
+      {
+       "name": "LV van Beek",
+       "balls": 36,
+       "runs": 30,
+       "wickets": 1
+      },
+      {
+       "name": "CN Ackermann",
+       "balls": 48,
+       "runs": 39,
+       "wickets": 2
+      },
+      {
+       "name": "PA van Meekeren",
+       "balls": 35,
+       "runs": 40,
+       "wickets": 1
+      },
+      {
+       "name": "BFW de Leede",
+       "balls": 54,
+       "runs": 62,
+       "wickets": 4
+      },
+      {
+       "name": "RE van der Merwe",
+       "balls": 36,
+       "runs": 36,
+       "wickets": 0
+      },
+      {
+       "name": "Vikramjit Singh",
+       "balls": 12,
+       "runs": 16,
+       "wickets": 0
+      },
+      {
+       "name": "Saqib Zulfiqar",
+       "balls": 12,
+       "runs": 15,
+       "wickets": 0
+      }
+     ]
+    },
+    {
+     "team": "Netherlands",
+     "runs": 205,
+     "wickets": 10,
+     "overs": "41.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Vikramjit Singh",
+       "runs": 52,
+       "balls": 67,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "MP O'Dowd",
+       "runs": 5,
+       "balls": 12,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "CN Ackermann",
+       "runs": 17,
+       "balls": 21,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "BFW de Leede",
+       "runs": 67,
+       "balls": 68,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "AT Nidamanuru",
+       "runs": 5,
+       "balls": 9,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "SA Edwards",
+       "runs": 0,
+       "balls": 2,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "Saqib Zulfiqar",
+       "runs": 10,
+       "balls": 18,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "RE van der Merwe",
+       "runs": 4,
+       "balls": 7,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "LV van Beek",
+       "runs": 28,
+       "balls": 28,
+       "out": false
+      },
+      {
+       "pos": 10,
+       "name": "A Dutt",
+       "runs": 1,
+       "balls": 2,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "PA van Meekeren",
+       "runs": 7,
+       "balls": 12,
+       "out": true
+      }
+     ],
+     "bowling": [
+      {
+       "name": "Shaheen Shah Afridi",
+       "balls": 42,
+       "runs": 37,
+       "wickets": 1
+      },
+      {
+       "name": "Hasan Ali",
+       "balls": 42,
+       "runs": 33,
+       "wickets": 2
+      },
+      {
+       "name": "Haris Rauf",
+       "balls": 54,
+       "runs": 43,
+       "wickets": 3
+      },
+      {
+       "name": "Iftikhar Ahmed",
+       "balls": 18,
+       "runs": 16,
+       "wickets": 1
+      },
+      {
+       "name": "Mohammad Nawaz",
+       "balls": 42,
+       "runs": 31,
+       "wickets": 1
+      },
+      {
+       "name": "Shadab Khan",
+       "balls": 48,
+       "runs": 45,
+       "wickets": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384395",
+   "date": "2023-10-07",
+   "match_number": 4,
+   "stage": "league",
+   "teams": [
+    "South Africa",
+    "Sri Lanka"
+   ],
+   "winner": "South Africa",
+   "margin": {
+    "runs": 102
+   },
+   "player_of_match": [
+    "AK Markram"
+   ],
+   "playing_xi": {
+    "South Africa": [
+     "Q de Kock",
+     "T Bavuma",
+     "HE van der Dussen",
+     "AK Markram",
+     "H Klaasen",
+     "DA Miller",
+     "M Jansen",
+     "G Coetzee",
+     "KA Maharaj",
+     "K Rabada",
+     "L Ngidi"
+    ],
+    "Sri Lanka": [
+     "P Nissanka",
+     "MDKJ Perera",
+     "BKG Mendis",
+     "S Samarawickrama",
+     "KIC Asalanka",
+     "DM de Silva",
+     "MD Shanaka",
+     "DN Wellalage",
+     "CAK Rajitha",
+     "M Pathirana",
+     "D Madushanka"
+    ]
+   },
+   "innings": [
+    {
+     "team": "South Africa",
+     "runs": 428,
+     "wickets": 5,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Q de Kock",
+       "runs": 100,
+       "balls": 84,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "T Bavuma",
+       "runs": 8,
+       "balls": 5,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "HE van der Dussen",
+       "runs": 108,
+       "balls": 110,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "AK Markram",
+       "runs": 106,
+       "balls": 54,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "H Klaasen",
+       "runs": 32,
+       "balls": 20,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "DA Miller",
+       "runs": 39,
+       "balls": 21,
+       "out": false
+      },
+      {
+       "pos": 7,
+       "name": "M Jansen",
+       "runs": 12,
+       "balls": 7,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "CAK Rajitha",
+       "balls": 60,
+       "runs": 90,
+       "wickets": 1
+      },
+      {
+       "name": "D Madushanka",
+       "balls": 60,
+       "runs": 86,
+       "wickets": 2
+      },
+      {
+       "name": "MD Shanaka",
+       "balls": 36,
+       "runs": 36,
+       "wickets": 0
+      },
+      {
+       "name": "DM de Silva",
+       "balls": 24,
+       "runs": 39,
+       "wickets": 0
+      },
+      {
+       "name": "M Pathirana",
+       "balls": 60,
+       "runs": 95,
+       "wickets": 1
+      },
+      {
+       "name": "DN Wellalage",
+       "balls": 60,
+       "runs": 81,
+       "wickets": 1
+      }
+     ]
+    },
+    {
+     "team": "Sri Lanka",
+     "runs": 326,
+     "wickets": 10,
+     "overs": "44.5",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "P Nissanka",
+       "runs": 0,
+       "balls": 3,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "MDKJ Perera",
+       "runs": 7,
+       "balls": 15,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "BKG Mendis",
+       "runs": 76,
+       "balls": 42,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "S Samarawickrama",
+       "runs": 23,
+       "balls": 19,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "KIC Asalanka",
+       "runs": 79,
+       "balls": 65,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "DM de Silva",
+       "runs": 11,
+       "balls": 14,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "MD Shanaka",
+       "runs": 68,
+       "balls": 62,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "DN Wellalage",
+       "runs": 0,
+       "balls": 1,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "CAK Rajitha",
+       "runs": 33,
+       "balls": 31,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "M Pathirana",
+       "runs": 5,
+       "balls": 16,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "D Madushanka",
+       "runs": 4,
+       "balls": 2,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "L Ngidi",
+       "balls": 48,
+       "runs": 49,
+       "wickets": 1
+      },
+      {
+       "name": "M Jansen",
+       "balls": 60,
+       "runs": 92,
+       "wickets": 2
+      },
+      {
+       "name": "K Rabada",
+       "balls": 47,
+       "runs": 50,
+       "wickets": 2
+      },
+      {
+       "name": "KA Maharaj",
+       "balls": 60,
+       "runs": 62,
+       "wickets": 2
+      },
+      {
+       "name": "G Coetzee",
+       "balls": 54,
+       "runs": 68,
+       "wickets": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384396",
+   "date": "2023-10-08",
+   "match_number": 5,
+   "stage": "league",
+   "teams": [
+    "Australia",
+    "India"
+   ],
+   "winner": "India",
+   "margin": {
+    "wickets": 6
+   },
+   "player_of_match": [
+    "KL Rahul"
+   ],
+   "playing_xi": {
+    "Australia": [
+     "DA Warner",
+     "MR Marsh",
+     "SPD Smith",
+     "M Labuschagne",
+     "GJ Maxwell",
+     "AT Carey",
+     "C Green",
+     "PJ Cummins",
+     "MA Starc",
+     "A Zampa",
+     "JR Hazlewood"
+    ],
+    "India": [
+     "RG Sharma",
+     "Ishan Kishan",
+     "V Kohli",
+     "SS Iyer",
+     "KL Rahul",
+     "HH Pandya",
+     "RA Jadeja",
+     "R Ashwin",
+     "Kuldeep Yadav",
+     "JJ Bumrah",
+     "Mohammed Siraj"
+    ]
+   },
+   "innings": [
+    {
+     "team": "Australia",
+     "runs": 199,
+     "wickets": 10,
+     "overs": "49.3",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "DA Warner",
+       "runs": 41,
+       "balls": 52,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "MR Marsh",
+       "runs": 0,
+       "balls": 6,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "SPD Smith",
+       "runs": 46,
+       "balls": 71,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "M Labuschagne",
+       "runs": 27,
+       "balls": 41,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "GJ Maxwell",
+       "runs": 15,
+       "balls": 25,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "AT Carey",
+       "runs": 0,
+       "balls": 2,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "C Green",
+       "runs": 8,
+       "balls": 20,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "PJ Cummins",
+       "runs": 15,
+       "balls": 24,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "MA Starc",
+       "runs": 28,
+       "balls": 35,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "A Zampa",
+       "runs": 6,
+       "balls": 20,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "JR Hazlewood",
+       "runs": 1,
+       "balls": 1,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "JJ Bumrah",
+       "balls": 60,
+       "runs": 35,
+       "wickets": 2
+      },
+      {
+       "name": "Mohammed Siraj",
+       "balls": 39,
+       "runs": 26,
+       "wickets": 1
+      },
+      {
+       "name": "HH Pandya",
+       "balls": 18,
+       "runs": 28,
+       "wickets": 1
+      },
+      {
+       "name": "R Ashwin",
+       "balls": 60,
+       "runs": 34,
+       "wickets": 1
+      },
+      {
+       "name": "Kuldeep Yadav",
+       "balls": 60,
+       "runs": 42,
+       "wickets": 2
+      },
+      {
+       "name": "RA Jadeja",
+       "balls": 60,
+       "runs": 28,
+       "wickets": 3
+      }
+     ]
+    },
+    {
+     "team": "India",
+     "runs": 201,
+     "wickets": 4,
+     "overs": "41.2",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "RG Sharma",
+       "runs": 0,
+       "balls": 6,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Ishan Kishan",
+       "runs": 0,
+       "balls": 1,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "V Kohli",
+       "runs": 85,
+       "balls": 116,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "SS Iyer",
+       "runs": 0,
+       "balls": 3,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "KL Rahul",
+       "runs": 97,
+       "balls": 115,
+       "out": false
+      },
+      {
+       "pos": 6,
+       "name": "HH Pandya",
+       "runs": 11,
+       "balls": 8,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "MA Starc",
+       "balls": 48,
+       "runs": 31,
+       "wickets": 1
+      },
+      {
+       "name": "JR Hazlewood",
+       "balls": 54,
+       "runs": 38,
+       "wickets": 3
+      },
+      {
+       "name": "PJ Cummins",
+       "balls": 38,
+       "runs": 33,
+       "wickets": 0
+      },
+      {
+       "name": "GJ Maxwell",
+       "balls": 48,
+       "runs": 33,
+       "wickets": 0
+      },
+      {
+       "name": "C Green",
+       "balls": 12,
+       "runs": 11,
+       "wickets": 0
+      },
+      {
+       "name": "A Zampa",
+       "balls": 48,
+       "runs": 53,
+       "wickets": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384397",
+   "date": "2023-10-09",
+   "match_number": 6,
+   "stage": "league",
+   "teams": [
+    "New Zealand",
+    "Netherlands"
+   ],
+   "winner": "New Zealand",
+   "margin": {
+    "runs": 99
+   },
+   "player_of_match": [
+    "MJ Santner"
+   ],
+   "playing_xi": {
+    "New Zealand": [
+     "DP Conway",
+     "WA Young",
+     "R Ravindra",
+     "DJ Mitchell",
+     "TWM Latham",
+     "GD Phillips",
+     "MS Chapman",
+     "MJ Santner",
+     "MJ Henry",
+     "LH Ferguson",
+     "TA Boult"
+    ],
+    "Netherlands": [
+     "Vikramjit Singh",
+     "MP O'Dowd",
+     "CN Ackermann",
+     "BFW de Leede",
+     "AT Nidamanuru",
+     "SA Edwards",
+     "SA Engelbrecht",
+     "RE van der Merwe",
+     "R Klein",
+     "A Dutt",
+     "PA van Meekeren"
+    ]
+   },
+   "innings": [
+    {
+     "team": "New Zealand",
+     "runs": 322,
+     "wickets": 7,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "DP Conway",
+       "runs": 32,
+       "balls": 40,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "WA Young",
+       "runs": 70,
+       "balls": 80,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "R Ravindra",
+       "runs": 51,
+       "balls": 51,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "DJ Mitchell",
+       "runs": 48,
+       "balls": 47,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "TWM Latham",
+       "runs": 53,
+       "balls": 46,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "GD Phillips",
+       "runs": 4,
+       "balls": 4,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "MS Chapman",
+       "runs": 5,
+       "balls": 13,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "MJ Santner",
+       "runs": 36,
+       "balls": 17,
+       "out": false
+      },
+      {
+       "pos": 9,
+       "name": "MJ Henry",
+       "runs": 10,
+       "balls": 4,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "A Dutt",
+       "balls": 60,
+       "runs": 62,
+       "wickets": 2
+      },
+      {
+       "name": "R Klein",
+       "balls": 42,
+       "runs": 41,
+       "wickets": 0
+      },
+      {
+       "name": "PA van Meekeren",
+       "balls": 54,
+       "runs": 59,
+       "wickets": 2
+      },
+      {
+       "name": "RE van der Merwe",
+       "balls": 54,
+       "runs": 56,
+       "wickets": 2
+      },
+      {
+       "name": "CN Ackermann",
+       "balls": 24,
+       "runs": 28,
+       "wickets": 0
+      },
+      {
+       "name": "BFW de Leede",
+       "balls": 60,
+       "runs": 64,
+       "wickets": 1
+      },
+      {
+       "name": "Vikramjit Singh",
+       "balls": 6,
+       "runs": 9,
+       "wickets": 0
+      }
+     ]
+    },
+    {
+     "team": "Netherlands",
+     "runs": 223,
+     "wickets": 10,
+     "overs": "46.3",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Vikramjit Singh",
+       "runs": 12,
+       "balls": 20,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "MP O'Dowd",
+       "runs": 16,
+       "balls": 31,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "CN Ackermann",
+       "runs": 69,
+       "balls": 73,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "BFW de Leede",
+       "runs": 18,
+       "balls": 25,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "AT Nidamanuru",
+       "runs": 21,
+       "balls": 26,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "SA Edwards",
+       "runs": 30,
+       "balls": 27,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "SA Engelbrecht",
+       "runs": 29,
+       "balls": 34,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "RE van der Merwe",
+       "runs": 1,
+       "balls": 6,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "R Klein",
+       "runs": 8,
+       "balls": 15,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "A Dutt",
+       "runs": 11,
+       "balls": 20,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "PA van Meekeren",
+       "runs": 4,
+       "balls": 3,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "TA Boult",
+       "balls": 48,
+       "runs": 34,
+       "wickets": 0
+      },
+      {
+       "name": "MJ Henry",
+       "balls": 51,
+       "runs": 40,
+       "wickets": 3
+      },
+      {
+       "name": "MJ Santner",
+       "balls": 60,
+       "runs": 59,
+       "wickets": 5
+      },
+      {
+       "name": "LH Ferguson",
+       "balls": 48,
+       "runs": 32,
+       "wickets": 0
+      },
+      {
+       "name": "R Ravindra",
+       "balls": 60,
+       "runs": 46,
+       "wickets": 1
+      },
+      {
+       "name": "GD Phillips",
+       "balls": 12,
+       "runs": 11,
+       "wickets": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384398",
+   "date": "2023-10-10",
+   "match_number": 7,
+   "stage": "league",
+   "teams": [
+    "England",
+    "Bangladesh"
+   ],
+   "winner": "England",
+   "margin": {
+    "runs": 137
+   },
+   "player_of_match": [
+    "DJ Malan"
+   ],
+   "playing_xi": {
+    "England": [
+     "JM Bairstow",
+     "DJ Malan",
+     "JE Root",
+     "JC Buttler",
+     "HC Brook",
+     "LS Livingstone",
+     "SM Curran",
+     "CR Woakes",
+     "AU Rashid",
+     "MA Wood",
+     "RJW Topley"
+    ],
+    "Bangladesh": [
+     "Liton Das",
+     "Tanzid Hasan",
+     "Nazmul Hossain Shanto",
+     "Shakib Al Hasan",
+     "Mehedi Hasan Miraz",
+     "Mushfiqur Rahim",
+     "Towhid Hridoy",
+     "Mahedi Hasan",
+     "Taskin Ahmed",
+     "Shoriful Islam",
+     "Mustafizur Rahman"
+    ]
+   },
+   "innings": [
+    {
+     "team": "England",
+     "runs": 364,
+     "wickets": 9,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "JM Bairstow",
+       "runs": 52,
+       "balls": 59,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "DJ Malan",
+       "runs": 140,
+       "balls": 107,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "JE Root",
+       "runs": 82,
+       "balls": 68,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "JC Buttler",
+       "runs": 20,
+       "balls": 10,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "HC Brook",
+       "runs": 20,
+       "balls": 15,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "LS Livingstone",
+       "runs": 0,
+       "balls": 1,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "SM Curran",
+       "runs": 11,
+       "balls": 15,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "CR Woakes",
+       "runs": 14,
+       "balls": 11,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "AU Rashid",
+       "runs": 11,
+       "balls": 7,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "MA Wood",
+       "runs": 6,
+       "balls": 5,
+       "out": false
+      },
+      {
+       "pos": 11,
+       "name": "RJW Topley",
+       "runs": 1,
+       "balls": 2,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "Mustafizur Rahman",
+       "balls": 60,
+       "runs": 70,
+       "wickets": 0
+      },
+      {
+       "name": "Taskin Ahmed",
+       "balls": 36,
+       "runs": 38,
+       "wickets": 1
+      },
+      {
+       "name": "Shoriful Islam",
+       "balls": 60,
+       "runs": 75,
+       "wickets": 3
+      },
+      {
+       "name": "Mahedi Hasan",
+       "balls": 48,
+       "runs": 71,
+       "wickets": 4
+      },
+      {
+       "name": "Shakib Al Hasan",
+       "balls": 60,
+       "runs": 52,
+       "wickets": 1
+      },
+      {
+       "name": "Mehedi Hasan Miraz",
+       "balls": 36,
+       "runs": 55,
+       "wickets": 0
+      }
+     ]
+    },
+    {
+     "team": "Bangladesh",
+     "runs": 227,
+     "wickets": 10,
+     "overs": "48.2",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Liton Das",
+       "runs": 76,
+       "balls": 66,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Tanzid Hasan",
+       "runs": 1,
+       "balls": 2,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "Nazmul Hossain Shanto",
+       "runs": 0,
+       "balls": 1,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "Shakib Al Hasan",
+       "runs": 1,
+       "balls": 9,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "Mehedi Hasan Miraz",
+       "runs": 8,
+       "balls": 7,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "Mushfiqur Rahim",
+       "runs": 51,
+       "balls": 64,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "Towhid Hridoy",
+       "runs": 39,
+       "balls": 61,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "Mahedi Hasan",
+       "runs": 14,
+       "balls": 32,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "Taskin Ahmed",
+       "runs": 15,
+       "balls": 25,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "Shoriful Islam",
+       "runs": 12,
+       "balls": 14,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "Mustafizur Rahman",
+       "runs": 3,
+       "balls": 9,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "CR Woakes",
+       "balls": 48,
+       "runs": 49,
+       "wickets": 2
+      },
+      {
+       "name": "RJW Topley",
+       "balls": 60,
+       "runs": 43,
+       "wickets": 4
+      },
+      {
+       "name": "SM Curran",
+       "balls": 44,
+       "runs": 47,
+       "wickets": 1
+      },
+      {
+       "name": "MA Wood",
+       "balls": 60,
+       "runs": 29,
+       "wickets": 1
+      },
+      {
+       "name": "AU Rashid",
+       "balls": 60,
+       "runs": 42,
+       "wickets": 1
+      },
+      {
+       "name": "LS Livingstone",
+       "balls": 18,
+       "runs": 13,
+       "wickets": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384399",
+   "date": "2023-10-10",
+   "match_number": 8,
+   "stage": "league",
+   "teams": [
+    "Sri Lanka",
+    "Pakistan"
+   ],
+   "winner": "Pakistan",
+   "margin": {
+    "wickets": 6
+   },
+   "player_of_match": [
+    "Mohammad Rizwan"
+   ],
+   "playing_xi": {
+    "Sri Lanka": [
+     "P Nissanka",
+     "MDKJ Perera",
+     "BKG Mendis",
+     "S Samarawickrama",
+     "KIC Asalanka",
+     "DM de Silva",
+     "MD Shanaka",
+     "DN Wellalage",
+     "M Theekshana",
+     "M Pathirana",
+     "D Madushanka"
+    ],
+    "Pakistan": [
+     "Abdullah Shafique",
+     "Imam-ul-Haq",
+     "Babar Azam",
+     "Mohammad Rizwan",
+     "Saud Shakeel",
+     "Iftikhar Ahmed",
+     "Shadab Khan",
+     "Mohammad Nawaz",
+     "Hasan Ali",
+     "Shaheen Shah Afridi",
+     "Haris Rauf"
+    ]
+   },
+   "innings": [
+    {
+     "team": "Sri Lanka",
+     "runs": 344,
+     "wickets": 9,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "P Nissanka",
+       "runs": 51,
+       "balls": 61,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "MDKJ Perera",
+       "runs": 0,
+       "balls": 4,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "BKG Mendis",
+       "runs": 122,
+       "balls": 77,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "S Samarawickrama",
+       "runs": 108,
+       "balls": 89,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "KIC Asalanka",
+       "runs": 1,
+       "balls": 3,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "DM de Silva",
+       "runs": 25,
+       "balls": 34,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "MD Shanaka",
+       "runs": 12,
+       "balls": 18,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "DN Wellalage",
+       "runs": 10,
+       "balls": 8,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "M Theekshana",
+       "runs": 0,
+       "balls": 4,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "M Pathirana",
+       "runs": 1,
+       "balls": 3,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "Shaheen Shah Afridi",
+       "balls": 54,
+       "runs": 66,
+       "wickets": 1
+      },
+      {
+       "name": "Hasan Ali",
+       "balls": 60,
+       "runs": 71,
+       "wickets": 4
+      },
+      {
+       "name": "Mohammad Nawaz",
+       "balls": 54,
+       "runs": 62,
+       "wickets": 1
+      },
+      {
+       "name": "Haris Rauf",
+       "balls": 60,
+       "runs": 64,
+       "wickets": 2
+      },
+      {
+       "name": "Shadab Khan",
+       "balls": 48,
+       "runs": 55,
+       "wickets": 1
+      },
+      {
+       "name": "Iftikhar Ahmed",
+       "balls": 24,
+       "runs": 22,
+       "wickets": 0
+      }
+     ]
+    },
+    {
+     "team": "Pakistan",
+     "runs": 345,
+     "wickets": 4,
+     "overs": "48.2",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Abdullah Shafique",
+       "runs": 113,
+       "balls": 103,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Imam-ul-Haq",
+       "runs": 12,
+       "balls": 12,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "Babar Azam",
+       "runs": 10,
+       "balls": 15,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "Mohammad Rizwan",
+       "runs": 131,
+       "balls": 121,
+       "out": false
+      },
+      {
+       "pos": 5,
+       "name": "Saud Shakeel",
+       "runs": 31,
+       "balls": 30,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "Iftikhar Ahmed",
+       "runs": 22,
+       "balls": 10,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "M Theekshana",
+       "balls": 60,
+       "runs": 59,
+       "wickets": 1
+      },
+      {
+       "name": "D Madushanka",
+       "balls": 56,
+       "runs": 60,
+       "wickets": 2
+      },
+      {
+       "name": "MD Shanaka",
+       "balls": 30,
+       "runs": 28,
+       "wickets": 0
+      },
+      {
+       "name": "M Pathirana",
+       "balls": 54,
+       "runs": 90,
+       "wickets": 1
+      },
+      {
+       "name": "DN Wellalage",
+       "balls": 60,
+       "runs": 62,
+       "wickets": 0
+      },
+      {
+       "name": "DM de Silva",
+       "balls": 24,
+       "runs": 36,
+       "wickets": 0
+      },
+      {
+       "name": "KIC Asalanka",
+       "balls": 6,
+       "runs": 10,
+       "wickets": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384401",
+   "date": "2023-10-12",
+   "match_number": 10,
+   "stage": "league",
+   "teams": [
+    "South Africa",
+    "Australia"
+   ],
+   "winner": "South Africa",
+   "margin": {
+    "runs": 134
+   },
+   "player_of_match": [
+    "Q de Kock"
+   ],
+   "playing_xi": {
+    "South Africa": [
+     "Q de Kock",
+     "T Bavuma",
+     "HE van der Dussen",
+     "AK Markram",
+     "H Klaasen",
+     "DA Miller",
+     "M Jansen",
+     "K Rabada",
+     "KA Maharaj",
+     "L Ngidi",
+     "T Shamsi"
+    ],
+    "Australia": [
+     "MR Marsh",
+     "DA Warner",
+     "SPD Smith",
+     "M Labuschagne",
+     "JP Inglis",
+     "GJ Maxwell",
+     "MP Stoinis",
+     "MA Starc",
+     "PJ Cummins",
+     "A Zampa",
+     "JR Hazlewood"
+    ]
+   },
+   "innings": [
+    {
+     "team": "South Africa",
+     "runs": 311,
+     "wickets": 7,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Q de Kock",
+       "runs": 109,
+       "balls": 106,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "T Bavuma",
+       "runs": 35,
+       "balls": 55,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "HE van der Dussen",
+       "runs": 26,
+       "balls": 30,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "AK Markram",
+       "runs": 56,
+       "balls": 44,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "H Klaasen",
+       "runs": 29,
+       "balls": 27,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "DA Miller",
+       "runs": 17,
+       "balls": 13,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "M Jansen",
+       "runs": 26,
+       "balls": 22,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "K Rabada",
+       "runs": 0,
+       "balls": 1,
+       "out": false
+      },
+      {
+       "pos": 9,
+       "name": "KA Maharaj",
+       "runs": 0,
+       "balls": 2,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "MA Starc",
+       "balls": 54,
+       "runs": 53,
+       "wickets": 2
+      },
+      {
+       "name": "JR Hazlewood",
+       "balls": 54,
+       "runs": 60,
+       "wickets": 1
+      },
+      {
+       "name": "GJ Maxwell",
+       "balls": 60,
+       "runs": 34,
+       "wickets": 2
+      },
+      {
+       "name": "PJ Cummins",
+       "balls": 54,
+       "runs": 71,
+       "wickets": 1
+      },
+      {
+       "name": "A Zampa",
+       "balls": 60,
+       "runs": 70,
+       "wickets": 1
+      },
+      {
+       "name": "MR Marsh",
+       "balls": 6,
+       "runs": 6,
+       "wickets": 0
+      },
+      {
+       "name": "MP Stoinis",
+       "balls": 12,
+       "runs": 11,
+       "wickets": 0
+      }
+     ]
+    },
+    {
+     "team": "Australia",
+     "runs": 177,
+     "wickets": 10,
+     "overs": "40.5",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "MR Marsh",
+       "runs": 7,
+       "balls": 15,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "DA Warner",
+       "runs": 13,
+       "balls": 27,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "SPD Smith",
+       "runs": 19,
+       "balls": 16,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "M Labuschagne",
+       "runs": 46,
+       "balls": 74,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "JP Inglis",
+       "runs": 5,
+       "balls": 4,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "GJ Maxwell",
+       "runs": 3,
+       "balls": 17,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "MP Stoinis",
+       "runs": 5,
+       "balls": 4,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "MA Starc",
+       "runs": 27,
+       "balls": 51,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "PJ Cummins",
+       "runs": 22,
+       "balls": 21,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "A Zampa",
+       "runs": 11,
+       "balls": 16,
+       "out": false
+      },
+      {
+       "pos": 11,
+       "name": "JR Hazlewood",
+       "runs": 2,
+       "balls": 2,
+       "out": true
+      }
+     ],
+     "bowling": [
+      {
+       "name": "L Ngidi",
+       "balls": 48,
+       "runs": 18,
+       "wickets": 1
+      },
+      {
+       "name": "M Jansen",
+       "balls": 42,
+       "runs": 54,
+       "wickets": 2
+      },
+      {
+       "name": "K Rabada",
+       "balls": 48,
+       "runs": 33,
+       "wickets": 3
+      },
+      {
+       "name": "KA Maharaj",
+       "balls": 60,
+       "runs": 30,
+       "wickets": 2
+      },
+      {
+       "name": "T Shamsi",
+       "balls": 47,
+       "runs": 38,
+       "wickets": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384402",
+   "date": "2023-10-13",
+   "match_number": 11,
+   "stage": "league",
+   "teams": [
+    "Bangladesh",
+    "New Zealand"
+   ],
+   "winner": "New Zealand",
+   "margin": {
+    "wickets": 8
+   },
+   "player_of_match": [
+    "LH Ferguson"
+   ],
+   "playing_xi": {
+    "Bangladesh": [
+     "Liton Das",
+     "Tanzid Hasan",
+     "Mehedi Hasan Miraz",
+     "Nazmul Hossain Shanto",
+     "Shakib Al Hasan",
+     "Mushfiqur Rahim",
+     "Towhid Hridoy",
+     "Mahmudullah",
+     "Taskin Ahmed",
+     "Mustafizur Rahman",
+     "Shoriful Islam"
+    ],
+    "New Zealand": [
+     "DP Conway",
+     "R Ravindra",
+     "KS Williamson",
+     "DJ Mitchell",
+     "GD Phillips",
+     "TWM Latham",
+     "MS Chapman",
+     "MJ Santner",
+     "MJ Henry",
+     "LH Ferguson",
+     "TA Boult"
+    ]
+   },
+   "innings": [
+    {
+     "team": "Bangladesh",
+     "runs": 245,
+     "wickets": 9,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Liton Das",
+       "runs": 0,
+       "balls": 1,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Tanzid Hasan",
+       "runs": 16,
+       "balls": 17,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "Mehedi Hasan Miraz",
+       "runs": 30,
+       "balls": 46,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "Nazmul Hossain Shanto",
+       "runs": 7,
+       "balls": 8,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "Shakib Al Hasan",
+       "runs": 40,
+       "balls": 51,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "Mushfiqur Rahim",
+       "runs": 66,
+       "balls": 75,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "Towhid Hridoy",
+       "runs": 13,
+       "balls": 25,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "Mahmudullah",
+       "runs": 41,
+       "balls": 49,
+       "out": false
+      },
+      {
+       "pos": 9,
+       "name": "Taskin Ahmed",
+       "runs": 17,
+       "balls": 19,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "Mustafizur Rahman",
+       "runs": 4,
+       "balls": 10,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "Shoriful Islam",
+       "runs": 2,
+       "balls": 3,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "TA Boult",
+       "balls": 60,
+       "runs": 45,
+       "wickets": 2
+      },
+      {
+       "name": "MJ Henry",
+       "balls": 60,
+       "runs": 58,
+       "wickets": 2
+      },
+      {
+       "name": "LH Ferguson",
+       "balls": 60,
+       "runs": 49,
+       "wickets": 3
+      },
+      {
+       "name": "MJ Santner",
+       "balls": 60,
+       "runs": 31,
+       "wickets": 1
+      },
+      {
+       "name": "GD Phillips",
+       "balls": 12,
+       "runs": 13,
+       "wickets": 1
+      },
+      {
+       "name": "R Ravindra",
+       "balls": 42,
+       "runs": 37,
+       "wickets": 0
+      },
+      {
+       "name": "DJ Mitchell",
+       "balls": 6,
+       "runs": 11,
+       "wickets": 0
+      }
+     ]
+    },
+    {
+     "team": "New Zealand",
+     "runs": 248,
+     "wickets": 3,
+     "overs": "42.5",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "DP Conway",
+       "runs": 45,
+       "balls": 59,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "R Ravindra",
+       "runs": 9,
+       "balls": 13,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "KS Williamson",
+       "runs": 78,
+       "balls": 107,
+       "out": false
+      },
+      {
+       "pos": 4,
+       "name": "DJ Mitchell",
+       "runs": 89,
+       "balls": 67,
+       "out": false
+      },
+      {
+       "pos": 5,
+       "name": "GD Phillips",
+       "runs": 16,
+       "balls": 11,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "Mustafizur Rahman",
+       "balls": 48,
+       "runs": 36,
+       "wickets": 1
+      },
+      {
+       "name": "Shoriful Islam",
+       "balls": 47,
+       "runs": 43,
+       "wickets": 0
+      },
+      {
+       "name": "Taskin Ahmed",
+       "balls": 48,
+       "runs": 56,
+       "wickets": 0
+      },
+      {
+       "name": "Shakib Al Hasan",
+       "balls": 60,
+       "runs": 54,
+       "wickets": 1
+      },
+      {
+       "name": "Mehedi Hasan Miraz",
+       "balls": 54,
+       "runs": 58,
+       "wickets": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384403",
+   "date": "2023-10-14",
+   "match_number": 12,
+   "stage": "league",
+   "teams": [
+    "Pakistan",
+    "India"
+   ],
+   "winner": "India",
+   "margin": {
+    "wickets": 7
+   },
+   "player_of_match": [
+    "JJ Bumrah"
+   ],
+   "playing_xi": {
+    "Pakistan": [
+     "Abdullah Shafique",
+     "Imam-ul-Haq",
+     "Babar Azam",
+     "Mohammad Rizwan",
+     "Saud Shakeel",
+     "Iftikhar Ahmed",
+     "Shadab Khan",
+     "Mohammad Nawaz",
+     "Hasan Ali",
+     "Shaheen Shah Afridi",
+     "Haris Rauf"
+    ],
+    "India": [
+     "RG Sharma",
+     "Shubman Gill",
+     "V Kohli",
+     "SS Iyer",
+     "KL Rahul",
+     "HH Pandya",
+     "RA Jadeja",
+     "SN Thakur",
+     "JJ Bumrah",
+     "Kuldeep Yadav",
+     "Mohammed Siraj"
+    ]
+   },
+   "innings": [
+    {
+     "team": "Pakistan",
+     "runs": 191,
+     "wickets": 10,
+     "overs": "42.5",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Abdullah Shafique",
+       "runs": 20,
+       "balls": 24,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Imam-ul-Haq",
+       "runs": 36,
+       "balls": 38,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "Babar Azam",
+       "runs": 50,
+       "balls": 58,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "Mohammad Rizwan",
+       "runs": 49,
+       "balls": 69,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "Saud Shakeel",
+       "runs": 6,
+       "balls": 10,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "Iftikhar Ahmed",
+       "runs": 4,
+       "balls": 4,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "Shadab Khan",
+       "runs": 2,
+       "balls": 5,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "Mohammad Nawaz",
+       "runs": 4,
+       "balls": 14,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "Hasan Ali",
+       "runs": 12,
+       "balls": 19,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "Shaheen Shah Afridi",
+       "runs": 2,
+       "balls": 10,
+       "out": false
+      },
+      {
+       "pos": 11,
+       "name": "Haris Rauf",
+       "runs": 2,
+       "balls": 6,
+       "out": true
+      }
+     ],
+     "bowling": [
+      {
+       "name": "JJ Bumrah",
+       "balls": 42,
+       "runs": 19,
+       "wickets": 2
+      },
+      {
+       "name": "Mohammed Siraj",
+       "balls": 48,
+       "runs": 50,
+       "wickets": 2
+      },
+      {
+       "name": "HH Pandya",
+       "balls": 36,
+       "runs": 34,
+       "wickets": 2
+      },
+      {
+       "name": "Kuldeep Yadav",
+       "balls": 60,
+       "runs": 35,
+       "wickets": 2
+      },
+      {
+       "name": "RA Jadeja",
+       "balls": 59,
+       "runs": 38,
+       "wickets": 2
+      },
+      {
+       "name": "SN Thakur",
+       "balls": 12,
+       "runs": 12,
+       "wickets": 0
+      }
+     ]
+    },
+    {
+     "team": "India",
+     "runs": 192,
+     "wickets": 3,
+     "overs": "30.3",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "RG Sharma",
+       "runs": 86,
+       "balls": 63,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Shubman Gill",
+       "runs": 16,
+       "balls": 11,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "V Kohli",
+       "runs": 16,
+       "balls": 18,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "SS Iyer",
+       "runs": 53,
+       "balls": 62,
+       "out": false
+      },
+      {
+       "pos": 5,
+       "name": "KL Rahul",
+       "runs": 19,
+       "balls": 29,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "Shaheen Shah Afridi",
+       "balls": 36,
+       "runs": 36,
+       "wickets": 2
+      },
+      {
+       "name": "Hasan Ali",
+       "balls": 36,
+       "runs": 34,
+       "wickets": 1
+      },
+      {
+       "name": "Mohammad Nawaz",
+       "balls": 51,
+       "runs": 47,
+       "wickets": 0
+      },
+      {
+       "name": "Haris Rauf",
+       "balls": 36,
+       "runs": 43,
+       "wickets": 0
+      },
+      {
+       "name": "Shadab Khan",
+       "balls": 24,
+       "runs": 31,
+       "wickets": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384405",
+   "date": "2023-10-16",
+   "match_number": 14,
+   "stage": "league",
+   "teams": [
+    "Sri Lanka",
+    "Australia"
+   ],
+   "winner": "Australia",
+   "margin": {
+    "wickets": 5
+   },
+   "player_of_match": [
+    "A Zampa"
+   ],
+   "playing_xi": {
+    "Sri Lanka": [
+     "P Nissanka",
+     "MDKJ Perera",
+     "BKG Mendis",
+     "S Samarawickrama",
+     "KIC Asalanka",
+     "DM de Silva",
+     "DN Wellalage",
+     "C Karunaratne",
+     "M Theekshana",
+     "CBRLS Kumara",
+     "D Madushanka"
+    ],
+    "Australia": [
+     "MR Marsh",
+     "DA Warner",
+     "SPD Smith",
+     "M Labuschagne",
+     "JP Inglis",
+     "GJ Maxwell",
+     "MP Stoinis",
+     "MA Starc",
+     "PJ Cummins",
+     "A Zampa",
+     "JR Hazlewood"
+    ]
+   },
+   "innings": [
+    {
+     "team": "Sri Lanka",
+     "runs": 209,
+     "wickets": 10,
+     "overs": "43.3",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "P Nissanka",
+       "runs": 61,
+       "balls": 67,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "MDKJ Perera",
+       "runs": 78,
+       "balls": 82,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "BKG Mendis",
+       "runs": 9,
+       "balls": 13,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "S Samarawickrama",
+       "runs": 8,
+       "balls": 8,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "KIC Asalanka",
+       "runs": 25,
+       "balls": 39,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "DM de Silva",
+       "runs": 7,
+       "balls": 13,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "DN Wellalage",
+       "runs": 2,
+       "balls": 9,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "C Karunaratne",
+       "runs": 2,
+       "balls": 11,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "M Theekshana",
+       "runs": 0,
+       "balls": 5,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "CBRLS Kumara",
+       "runs": 4,
+       "balls": 8,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "D Madushanka",
+       "runs": 0,
+       "balls": 6,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "MA Starc",
+       "balls": 60,
+       "runs": 43,
+       "wickets": 2
+      },
+      {
+       "name": "JR Hazlewood",
+       "balls": 42,
+       "runs": 36,
+       "wickets": 0
+      },
+      {
+       "name": "PJ Cummins",
+       "balls": 42,
+       "runs": 32,
+       "wickets": 2
+      },
+      {
+       "name": "GJ Maxwell",
+       "balls": 57,
+       "runs": 36,
+       "wickets": 1
+      },
+      {
+       "name": "A Zampa",
+       "balls": 48,
+       "runs": 47,
+       "wickets": 4
+      },
+      {
+       "name": "MP Stoinis",
+       "balls": 12,
+       "runs": 11,
+       "wickets": 0
+      }
+     ]
+    },
+    {
+     "team": "Australia",
+     "runs": 215,
+     "wickets": 5,
+     "overs": "35.2",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "MR Marsh",
+       "runs": 52,
+       "balls": 51,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "DA Warner",
+       "runs": 11,
+       "balls": 6,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "SPD Smith",
+       "runs": 0,
+       "balls": 5,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "M Labuschagne",
+       "runs": 40,
+       "balls": 60,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "JP Inglis",
+       "runs": 58,
+       "balls": 59,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "GJ Maxwell",
+       "runs": 31,
+       "balls": 21,
+       "out": false
+      },
+      {
+       "pos": 7,
+       "name": "MP Stoinis",
+       "runs": 20,
+       "balls": 10,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "CBRLS Kumara",
+       "balls": 24,
+       "runs": 47,
+       "wickets": 0
+      },
+      {
+       "name": "D Madushanka",
+       "balls": 54,
+       "runs": 38,
+       "wickets": 3
+      },
+      {
+       "name": "M Theekshana",
+       "balls": 42,
+       "runs": 49,
+       "wickets": 0
+      },
+      {
+       "name": "DN Wellalage",
+       "balls": 56,
+       "runs": 53,
+       "wickets": 1
+      },
+      {
+       "name": "C Karunaratne",
+       "balls": 18,
+       "runs": 15,
+       "wickets": 0
+      },
+      {
+       "name": "DM de Silva",
+       "balls": 18,
+       "runs": 13,
+       "wickets": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384406",
+   "date": "2023-10-17",
+   "match_number": 15,
+   "stage": "league",
+   "teams": [
+    "Netherlands",
+    "South Africa"
+   ],
+   "winner": "Netherlands",
+   "margin": {
+    "runs": 38
+   },
+   "player_of_match": [
+    "SA Edwards"
+   ],
+   "playing_xi": {
+    "Netherlands": [
+     "Vikramjit Singh",
+     "MP O'Dowd",
+     "CN Ackermann",
+     "BFW de Leede",
+     "SA Engelbrecht",
+     "AT Nidamanuru",
+     "SA Edwards",
+     "LV van Beek",
+     "RE van der Merwe",
+     "A Dutt",
+     "PA van Meekeren"
+    ],
+    "South Africa": [
+     "T Bavuma",
+     "Q de Kock",
+     "HE van der Dussen",
+     "AK Markram",
+     "H Klaasen",
+     "DA Miller",
+     "M Jansen",
+     "G Coetzee",
+     "KA Maharaj",
+     "K Rabada",
+     "L Ngidi"
+    ]
+   },
+   "innings": [
+    {
+     "team": "Netherlands",
+     "runs": 245,
+     "wickets": 8,
+     "overs": "43.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Vikramjit Singh",
+       "runs": 2,
+       "balls": 16,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "MP O'Dowd",
+       "runs": 18,
+       "balls": 25,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "CN Ackermann",
+       "runs": 12,
+       "balls": 25,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "BFW de Leede",
+       "runs": 2,
+       "balls": 7,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "SA Engelbrecht",
+       "runs": 19,
+       "balls": 37,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "AT Nidamanuru",
+       "runs": 20,
+       "balls": 25,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "SA Edwards",
+       "runs": 78,
+       "balls": 69,
+       "out": false
+      },
+      {
+       "pos": 8,
+       "name": "LV van Beek",
+       "runs": 10,
+       "balls": 27,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "RE van der Merwe",
+       "runs": 29,
+       "balls": 19,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "A Dutt",
+       "runs": 23,
+       "balls": 9,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "L Ngidi",
+       "balls": 54,
+       "runs": 57,
+       "wickets": 2
+      },
+      {
+       "name": "M Jansen",
+       "balls": 48,
+       "runs": 27,
+       "wickets": 2
+      },
+      {
+       "name": "K Rabada",
+       "balls": 54,
+       "runs": 56,
+       "wickets": 2
+      },
+      {
+       "name": "G Coetzee",
+       "balls": 48,
+       "runs": 57,
+       "wickets": 1
+      },
+      {
+       "name": "KA Maharaj",
+       "balls": 54,
+       "runs": 38,
+       "wickets": 1
+      }
+     ]
+    },
+    {
+     "team": "South Africa",
+     "runs": 207,
+     "wickets": 10,
+     "overs": "42.5",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "T Bavuma",
+       "runs": 16,
+       "balls": 31,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Q de Kock",
+       "runs": 20,
+       "balls": 22,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "HE van der Dussen",
+       "runs": 4,
+       "balls": 7,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "AK Markram",
+       "runs": 1,
+       "balls": 3,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "H Klaasen",
+       "runs": 28,
+       "balls": 28,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "DA Miller",
+       "runs": 43,
+       "balls": 52,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "M Jansen",
+       "runs": 9,
+       "balls": 25,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "G Coetzee",
+       "runs": 22,
+       "balls": 23,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "KA Maharaj",
+       "runs": 40,
+       "balls": 37,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "K Rabada",
+       "runs": 9,
+       "balls": 6,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "L Ngidi",
+       "runs": 7,
+       "balls": 24,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "A Dutt",
+       "balls": 30,
+       "runs": 19,
+       "wickets": 0
+      },
+      {
+       "name": "LV van Beek",
+       "balls": 53,
+       "runs": 60,
+       "wickets": 3
+      },
+      {
+       "name": "CN Ackermann",
+       "balls": 18,
+       "runs": 16,
+       "wickets": 1
+      },
+      {
+       "name": "PA van Meekeren",
+       "balls": 54,
+       "runs": 40,
+       "wickets": 2
+      },
+      {
+       "name": "RE van der Merwe",
+       "balls": 54,
+       "runs": 34,
+       "wickets": 2
+      },
+      {
+       "name": "BFW de Leede",
+       "balls": 48,
+       "runs": 36,
+       "wickets": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384408",
+   "date": "2023-10-19",
+   "match_number": 17,
+   "stage": "league",
+   "teams": [
+    "Bangladesh",
+    "India"
+   ],
+   "winner": "India",
+   "margin": {
+    "wickets": 7
+   },
+   "player_of_match": [
+    "V Kohli"
+   ],
+   "playing_xi": {
+    "Bangladesh": [
+     "Tanzid Hasan",
+     "Liton Das",
+     "Nazmul Hossain Shanto",
+     "Mehedi Hasan Miraz",
+     "Towhid Hridoy",
+     "Mushfiqur Rahim",
+     "Mahmudullah",
+     "Nasum Ahmed",
+     "Mustafizur Rahman",
+     "Shoriful Islam",
+     "Hasan Mahmud"
+    ],
+    "India": [
+     "RG Sharma",
+     "Shubman Gill",
+     "V Kohli",
+     "SS Iyer",
+     "KL Rahul",
+     "HH Pandya",
+     "RA Jadeja",
+     "SN Thakur",
+     "JJ Bumrah",
+     "Kuldeep Yadav",
+     "Mohammed Siraj"
+    ]
+   },
+   "innings": [
+    {
+     "team": "Bangladesh",
+     "runs": 256,
+     "wickets": 8,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Tanzid Hasan",
+       "runs": 51,
+       "balls": 43,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Liton Das",
+       "runs": 66,
+       "balls": 82,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "Nazmul Hossain Shanto",
+       "runs": 8,
+       "balls": 17,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "Mehedi Hasan Miraz",
+       "runs": 3,
+       "balls": 13,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "Towhid Hridoy",
+       "runs": 16,
+       "balls": 35,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "Mushfiqur Rahim",
+       "runs": 38,
+       "balls": 46,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "Mahmudullah",
+       "runs": 46,
+       "balls": 36,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "Nasum Ahmed",
+       "runs": 14,
+       "balls": 18,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "Mustafizur Rahman",
+       "runs": 1,
+       "balls": 7,
+       "out": false
+      },
+      {
+       "pos": 10,
+       "name": "Shoriful Islam",
+       "runs": 7,
+       "balls": 3,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "JJ Bumrah",
+       "balls": 60,
+       "runs": 41,
+       "wickets": 2
+      },
+      {
+       "name": "Mohammed Siraj",
+       "balls": 60,
+       "runs": 60,
+       "wickets": 2
+      },
+      {
+       "name": "HH Pandya",
+       "balls": 3,
+       "runs": 8,
+       "wickets": 0
+      },
+      {
+       "name": "V Kohli",
+       "balls": 3,
+       "runs": 2,
+       "wickets": 0
+      },
+      {
+       "name": "SN Thakur",
+       "balls": 54,
+       "runs": 59,
+       "wickets": 1
+      },
+      {
+       "name": "Kuldeep Yadav",
+       "balls": 60,
+       "runs": 47,
+       "wickets": 1
+      },
+      {
+       "name": "RA Jadeja",
+       "balls": 60,
+       "runs": 38,
+       "wickets": 2
+      }
+     ]
+    },
+    {
+     "team": "India",
+     "runs": 261,
+     "wickets": 3,
+     "overs": "41.3",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "RG Sharma",
+       "runs": 48,
+       "balls": 40,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Shubman Gill",
+       "runs": 53,
+       "balls": 55,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "V Kohli",
+       "runs": 103,
+       "balls": 97,
+       "out": false
+      },
+      {
+       "pos": 4,
+       "name": "SS Iyer",
+       "runs": 19,
+       "balls": 25,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "KL Rahul",
+       "runs": 34,
+       "balls": 34,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "Shoriful Islam",
+       "balls": 48,
+       "runs": 54,
+       "wickets": 0
+      },
+      {
+       "name": "Mustafizur Rahman",
+       "balls": 30,
+       "runs": 29,
+       "wickets": 0
+      },
+      {
+       "name": "Nasum Ahmed",
+       "balls": 57,
+       "runs": 60,
+       "wickets": 0
+      },
+      {
+       "name": "Hasan Mahmud",
+       "balls": 48,
+       "runs": 65,
+       "wickets": 1
+      },
+      {
+       "name": "Mehedi Hasan Miraz",
+       "balls": 60,
+       "runs": 47,
+       "wickets": 2
+      },
+      {
+       "name": "Mahmudullah",
+       "balls": 6,
+       "runs": 6,
+       "wickets": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384409",
+   "date": "2023-10-20",
+   "match_number": 18,
+   "stage": "league",
+   "teams": [
+    "Australia",
+    "Pakistan"
+   ],
+   "winner": "Australia",
+   "margin": {
+    "runs": 62
+   },
+   "player_of_match": [
+    "DA Warner"
+   ],
+   "playing_xi": {
+    "Australia": [
+     "DA Warner",
+     "MR Marsh",
+     "GJ Maxwell",
+     "SPD Smith",
+     "MP Stoinis",
+     "JP Inglis",
+     "M Labuschagne",
+     "PJ Cummins",
+     "MA Starc",
+     "JR Hazlewood",
+     "A Zampa"
+    ],
+    "Pakistan": [
+     "Abdullah Shafique",
+     "Imam-ul-Haq",
+     "Babar Azam",
+     "Mohammad Rizwan",
+     "Saud Shakeel",
+     "Iftikhar Ahmed",
+     "Mohammad Nawaz",
+     "Usama Mir",
+     "Shaheen Shah Afridi",
+     "Hasan Ali",
+     "Haris Rauf"
+    ]
+   },
+   "innings": [
+    {
+     "team": "Australia",
+     "runs": 367,
+     "wickets": 9,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "DA Warner",
+       "runs": 163,
+       "balls": 124,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "MR Marsh",
+       "runs": 121,
+       "balls": 108,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "GJ Maxwell",
+       "runs": 0,
+       "balls": 1,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "SPD Smith",
+       "runs": 7,
+       "balls": 9,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "MP Stoinis",
+       "runs": 21,
+       "balls": 24,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "JP Inglis",
+       "runs": 13,
+       "balls": 9,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "M Labuschagne",
+       "runs": 8,
+       "balls": 12,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "PJ Cummins",
+       "runs": 6,
+       "balls": 8,
+       "out": false
+      },
+      {
+       "pos": 9,
+       "name": "MA Starc",
+       "runs": 2,
+       "balls": 3,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "JR Hazlewood",
+       "runs": 0,
+       "balls": 1,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "A Zampa",
+       "runs": 1,
+       "balls": 1,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "Shaheen Shah Afridi",
+       "balls": 60,
+       "runs": 54,
+       "wickets": 5
+      },
+      {
+       "name": "Hasan Ali",
+       "balls": 48,
+       "runs": 57,
+       "wickets": 0
+      },
+      {
+       "name": "Iftikhar Ahmed",
+       "balls": 48,
+       "runs": 37,
+       "wickets": 0
+      },
+      {
+       "name": "Haris Rauf",
+       "balls": 48,
+       "runs": 83,
+       "wickets": 3
+      },
+      {
+       "name": "Usama Mir",
+       "balls": 54,
+       "runs": 82,
+       "wickets": 1
+      },
+      {
+       "name": "Mohammad Nawaz",
+       "balls": 42,
+       "runs": 43,
+       "wickets": 0
+      }
+     ]
+    },
+    {
+     "team": "Pakistan",
+     "runs": 305,
+     "wickets": 10,
+     "overs": "45.3",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Abdullah Shafique",
+       "runs": 64,
+       "balls": 61,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Imam-ul-Haq",
+       "runs": 70,
+       "balls": 71,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "Babar Azam",
+       "runs": 18,
+       "balls": 14,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "Mohammad Rizwan",
+       "runs": 46,
+       "balls": 40,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "Saud Shakeel",
+       "runs": 30,
+       "balls": 31,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "Iftikhar Ahmed",
+       "runs": 26,
+       "balls": 20,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "Mohammad Nawaz",
+       "runs": 14,
+       "balls": 16,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "Usama Mir",
+       "runs": 0,
+       "balls": 3,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "Shaheen Shah Afridi",
+       "runs": 10,
+       "balls": 8,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "Hasan Ali",
+       "runs": 8,
+       "balls": 8,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "Haris Rauf",
+       "runs": 0,
+       "balls": 1,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "MA Starc",
+       "balls": 48,
+       "runs": 65,
+       "wickets": 1
+      },
+      {
+       "name": "JR Hazlewood",
+       "balls": 60,
+       "runs": 37,
+       "wickets": 1
+      },
+      {
+       "name": "PJ Cummins",
+       "balls": 45,
+       "runs": 62,
+       "wickets": 2
+      },
+      {
+       "name": "A Zampa",
+       "balls": 60,
+       "runs": 53,
+       "wickets": 4
+      },
+      {
+       "name": "GJ Maxwell",
+       "balls": 30,
+       "runs": 40,
+       "wickets": 0
+      },
+      {
+       "name": "MP Stoinis",
+       "balls": 30,
+       "runs": 40,
+       "wickets": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384410",
+   "date": "2023-10-21",
+   "match_number": 19,
+   "stage": "league",
+   "teams": [
+    "Netherlands",
+    "Sri Lanka"
+   ],
+   "winner": "Sri Lanka",
+   "margin": {
+    "wickets": 5
+   },
+   "player_of_match": [
+    "S Samarawickrama"
+   ],
+   "playing_xi": {
+    "Netherlands": [
+     "Vikramjit Singh",
+     "MP O'Dowd",
+     "CN Ackermann",
+     "BFW de Leede",
+     "AT Nidamanuru",
+     "SA Edwards",
+     "SA Engelbrecht",
+     "LV van Beek",
+     "RE van der Merwe",
+     "A Dutt",
+     "PA van Meekeren"
+    ],
+    "Sri Lanka": [
+     "P Nissanka",
+     "MDKJ Perera",
+     "BKG Mendis",
+     "S Samarawickrama",
+     "KIC Asalanka",
+     "DM de Silva",
+     "MADI Hemantha",
+     "C Karunaratne",
+     "M Theekshana",
+     "CAK Rajitha",
+     "D Madushanka"
+    ]
+   },
+   "innings": [
+    {
+     "team": "Netherlands",
+     "runs": 262,
+     "wickets": 10,
+     "overs": "49.4",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Vikramjit Singh",
+       "runs": 4,
+       "balls": 13,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "MP O'Dowd",
+       "runs": 16,
+       "balls": 27,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "CN Ackermann",
+       "runs": 29,
+       "balls": 31,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "BFW de Leede",
+       "runs": 6,
+       "balls": 21,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "AT Nidamanuru",
+       "runs": 9,
+       "balls": 16,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "SA Edwards",
+       "runs": 16,
+       "balls": 16,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "SA Engelbrecht",
+       "runs": 70,
+       "balls": 82,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "LV van Beek",
+       "runs": 59,
+       "balls": 75,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "RE van der Merwe",
+       "runs": 7,
+       "balls": 7,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "A Dutt",
+       "runs": 9,
+       "balls": 6,
+       "out": false
+      },
+      {
+       "pos": 11,
+       "name": "PA van Meekeren",
+       "runs": 4,
+       "balls": 5,
+       "out": true
+      }
+     ],
+     "bowling": [
+      {
+       "name": "D Madushanka",
+       "balls": 58,
+       "runs": 49,
+       "wickets": 4
+      },
+      {
+       "name": "CAK Rajitha",
+       "balls": 54,
+       "runs": 50,
+       "wickets": 4
+      },
+      {
+       "name": "C Karunaratne",
+       "balls": 54,
+       "runs": 58,
+       "wickets": 0
+      },
+      {
+       "name": "M Theekshana",
+       "balls": 60,
+       "runs": 44,
+       "wickets": 1
+      },
+      {
+       "name": "MADI Hemantha",
+       "balls": 48,
+       "runs": 42,
+       "wickets": 0
+      },
+      {
+       "name": "DM de Silva",
+       "balls": 24,
+       "runs": 13,
+       "wickets": 0
+      }
+     ]
+    },
+    {
+     "team": "Sri Lanka",
+     "runs": 263,
+     "wickets": 5,
+     "overs": "48.2",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "P Nissanka",
+       "runs": 54,
+       "balls": 52,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "MDKJ Perera",
+       "runs": 5,
+       "balls": 8,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "BKG Mendis",
+       "runs": 11,
+       "balls": 17,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "S Samarawickrama",
+       "runs": 91,
+       "balls": 107,
+       "out": false
+      },
+      {
+       "pos": 5,
+       "name": "KIC Asalanka",
+       "runs": 44,
+       "balls": 66,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "DM de Silva",
+       "runs": 30,
+       "balls": 37,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "MADI Hemantha",
+       "runs": 4,
+       "balls": 3,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "A Dutt",
+       "balls": 60,
+       "runs": 44,
+       "wickets": 3
+      },
+      {
+       "name": "LV van Beek",
+       "balls": 60,
+       "runs": 57,
+       "wickets": 0
+      },
+      {
+       "name": "PA van Meekeren",
+       "balls": 48,
+       "runs": 39,
+       "wickets": 1
+      },
+      {
+       "name": "BFW de Leede",
+       "balls": 18,
+       "runs": 29,
+       "wickets": 0
+      },
+      {
+       "name": "RE van der Merwe",
+       "balls": 54,
+       "runs": 42,
+       "wickets": 0
+      },
+      {
+       "name": "CN Ackermann",
+       "balls": 50,
+       "runs": 39,
+       "wickets": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384411",
+   "date": "2023-10-21",
+   "match_number": 20,
+   "stage": "league",
+   "teams": [
+    "South Africa",
+    "England"
+   ],
+   "winner": "South Africa",
+   "margin": {
+    "runs": 229
+   },
+   "player_of_match": [
+    "H Klaasen"
+   ],
+   "playing_xi": {
+    "South Africa": [
+     "Q de Kock",
+     "RR Hendricks",
+     "HE van der Dussen",
+     "AK Markram",
+     "H Klaasen",
+     "DA Miller",
+     "M Jansen",
+     "G Coetzee",
+     "KA Maharaj",
+     "K Rabada",
+     "L Ngidi"
+    ],
+    "England": [
+     "JM Bairstow",
+     "DJ Malan",
+     "JE Root",
+     "BA Stokes",
+     "HC Brook",
+     "JC Buttler",
+     "DJ Willey",
+     "AU Rashid",
+     "AAP Atkinson",
+     "MA Wood",
+     "RJW Topley"
+    ]
+   },
+   "innings": [
+    {
+     "team": "South Africa",
+     "runs": 399,
+     "wickets": 7,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Q de Kock",
+       "runs": 4,
+       "balls": 2,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "RR Hendricks",
+       "runs": 85,
+       "balls": 75,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "HE van der Dussen",
+       "runs": 60,
+       "balls": 61,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "AK Markram",
+       "runs": 42,
+       "balls": 44,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "H Klaasen",
+       "runs": 109,
+       "balls": 67,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "DA Miller",
+       "runs": 5,
+       "balls": 6,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "M Jansen",
+       "runs": 75,
+       "balls": 42,
+       "out": false
+      },
+      {
+       "pos": 8,
+       "name": "G Coetzee",
+       "runs": 3,
+       "balls": 3,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "KA Maharaj",
+       "runs": 1,
+       "balls": 1,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "RJW Topley",
+       "balls": 53,
+       "runs": 88,
+       "wickets": 3
+      },
+      {
+       "name": "DJ Willey",
+       "balls": 54,
+       "runs": 61,
+       "wickets": 0
+      },
+      {
+       "name": "JE Root",
+       "balls": 37,
+       "runs": 48,
+       "wickets": 0
+      },
+      {
+       "name": "AAP Atkinson",
+       "balls": 54,
+       "runs": 60,
+       "wickets": 2
+      },
+      {
+       "name": "MA Wood",
+       "balls": 42,
+       "runs": 76,
+       "wickets": 0
+      },
+      {
+       "name": "AU Rashid",
+       "balls": 60,
+       "runs": 61,
+       "wickets": 2
+      }
+     ]
+    },
+    {
+     "team": "England",
+     "runs": 170,
+     "wickets": 9,
+     "overs": "22.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "JM Bairstow",
+       "runs": 10,
+       "balls": 12,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "DJ Malan",
+       "runs": 6,
+       "balls": 11,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "JE Root",
+       "runs": 2,
+       "balls": 6,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "BA Stokes",
+       "runs": 5,
+       "balls": 8,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "HC Brook",
+       "runs": 17,
+       "balls": 25,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "JC Buttler",
+       "runs": 15,
+       "balls": 7,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "DJ Willey",
+       "runs": 12,
+       "balls": 12,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "AU Rashid",
+       "runs": 10,
+       "balls": 14,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "AAP Atkinson",
+       "runs": 35,
+       "balls": 21,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "MA Wood",
+       "runs": 43,
+       "balls": 17,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "L Ngidi",
+       "balls": 30,
+       "runs": 26,
+       "wickets": 2
+      },
+      {
+       "name": "M Jansen",
+       "balls": 30,
+       "runs": 35,
+       "wickets": 2
+      },
+      {
+       "name": "K Rabada",
+       "balls": 36,
+       "runs": 38,
+       "wickets": 1
+      },
+      {
+       "name": "G Coetzee",
+       "balls": 24,
+       "runs": 35,
+       "wickets": 3
+      },
+      {
+       "name": "KA Maharaj",
+       "balls": 12,
+       "runs": 27,
+       "wickets": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384412",
+   "date": "2023-10-22",
+   "match_number": 21,
+   "stage": "league",
+   "teams": [
+    "New Zealand",
+    "India"
+   ],
+   "winner": "India",
+   "margin": {
+    "wickets": 4
+   },
+   "player_of_match": [
+    "Mohammed Shami"
+   ],
+   "playing_xi": {
+    "New Zealand": [
+     "DP Conway",
+     "WA Young",
+     "R Ravindra",
+     "DJ Mitchell",
+     "TWM Latham",
+     "GD Phillips",
+     "MS Chapman",
+     "MJ Santner",
+     "MJ Henry",
+     "LH Ferguson",
+     "TA Boult"
+    ],
+    "India": [
+     "RG Sharma",
+     "Shubman Gill",
+     "V Kohli",
+     "SS Iyer",
+     "KL Rahul",
+     "SA Yadav",
+     "RA Jadeja",
+     "Mohammed Shami",
+     "JJ Bumrah",
+     "Kuldeep Yadav",
+     "Mohammed Siraj"
+    ]
+   },
+   "innings": [
+    {
+     "team": "New Zealand",
+     "runs": 273,
+     "wickets": 10,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "DP Conway",
+       "runs": 0,
+       "balls": 9,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "WA Young",
+       "runs": 17,
+       "balls": 27,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "R Ravindra",
+       "runs": 75,
+       "balls": 87,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "DJ Mitchell",
+       "runs": 130,
+       "balls": 127,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "TWM Latham",
+       "runs": 5,
+       "balls": 7,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "GD Phillips",
+       "runs": 23,
+       "balls": 26,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "MS Chapman",
+       "runs": 6,
+       "balls": 8,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "MJ Santner",
+       "runs": 1,
+       "balls": 2,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "MJ Henry",
+       "runs": 0,
+       "balls": 1,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "LH Ferguson",
+       "runs": 1,
+       "balls": 5,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "TA Boult",
+       "runs": 0,
+       "balls": 1,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "JJ Bumrah",
+       "balls": 60,
+       "runs": 45,
+       "wickets": 1
+      },
+      {
+       "name": "Mohammed Siraj",
+       "balls": 60,
+       "runs": 45,
+       "wickets": 1
+      },
+      {
+       "name": "Mohammed Shami",
+       "balls": 60,
+       "runs": 54,
+       "wickets": 5
+      },
+      {
+       "name": "RA Jadeja",
+       "balls": 60,
+       "runs": 48,
+       "wickets": 0
+      },
+      {
+       "name": "Kuldeep Yadav",
+       "balls": 60,
+       "runs": 73,
+       "wickets": 2
+      }
+     ]
+    },
+    {
+     "team": "India",
+     "runs": 274,
+     "wickets": 6,
+     "overs": "48.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "RG Sharma",
+       "runs": 46,
+       "balls": 40,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Shubman Gill",
+       "runs": 26,
+       "balls": 31,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "V Kohli",
+       "runs": 95,
+       "balls": 104,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "SS Iyer",
+       "runs": 33,
+       "balls": 29,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "KL Rahul",
+       "runs": 27,
+       "balls": 35,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "SA Yadav",
+       "runs": 2,
+       "balls": 4,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "RA Jadeja",
+       "runs": 39,
+       "balls": 44,
+       "out": false
+      },
+      {
+       "pos": 8,
+       "name": "Mohammed Shami",
+       "runs": 1,
+       "balls": 1,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "TA Boult",
+       "balls": 60,
+       "runs": 60,
+       "wickets": 1
+      },
+      {
+       "name": "MJ Henry",
+       "balls": 54,
+       "runs": 55,
+       "wickets": 1
+      },
+      {
+       "name": "MJ Santner",
+       "balls": 60,
+       "runs": 37,
+       "wickets": 1
+      },
+      {
+       "name": "LH Ferguson",
+       "balls": 48,
+       "runs": 63,
+       "wickets": 2
+      },
+      {
+       "name": "R Ravindra",
+       "balls": 54,
+       "runs": 46,
+       "wickets": 0
+      },
+      {
+       "name": "GD Phillips",
+       "balls": 12,
+       "runs": 12,
+       "wickets": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384414",
+   "date": "2023-10-24",
+   "match_number": 23,
+   "stage": "league",
+   "teams": [
+    "South Africa",
+    "Bangladesh"
+   ],
+   "winner": "South Africa",
+   "margin": {
+    "runs": 149
+   },
+   "player_of_match": [
+    "Q de Kock"
+   ],
+   "playing_xi": {
+    "South Africa": [
+     "Q de Kock",
+     "RR Hendricks",
+     "HE van der Dussen",
+     "AK Markram",
+     "H Klaasen",
+     "DA Miller",
+     "M Jansen",
+     "G Coetzee",
+     "KA Maharaj",
+     "K Rabada",
+     "LB Williams"
+    ],
+    "Bangladesh": [
+     "Tanzid Hasan",
+     "Liton Das",
+     "Nazmul Hossain Shanto",
+     "Shakib Al Hasan",
+     "Mushfiqur Rahim",
+     "Mahmudullah",
+     "Mehedi Hasan Miraz",
+     "Nasum Ahmed",
+     "Hasan Mahmud",
+     "Mustafizur Rahman",
+     "Shoriful Islam"
+    ]
+   },
+   "innings": [
+    {
+     "team": "South Africa",
+     "runs": 382,
+     "wickets": 5,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Q de Kock",
+       "runs": 174,
+       "balls": 140,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "RR Hendricks",
+       "runs": 12,
+       "balls": 19,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "HE van der Dussen",
+       "runs": 1,
+       "balls": 7,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "AK Markram",
+       "runs": 60,
+       "balls": 69,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "H Klaasen",
+       "runs": 90,
+       "balls": 49,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "DA Miller",
+       "runs": 34,
+       "balls": 15,
+       "out": false
+      },
+      {
+       "pos": 7,
+       "name": "M Jansen",
+       "runs": 1,
+       "balls": 1,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "Mustafizur Rahman",
+       "balls": 54,
+       "runs": 76,
+       "wickets": 0
+      },
+      {
+       "name": "Mehedi Hasan Miraz",
+       "balls": 54,
+       "runs": 44,
+       "wickets": 1
+      },
+      {
+       "name": "Shoriful Islam",
+       "balls": 54,
+       "runs": 76,
+       "wickets": 1
+      },
+      {
+       "name": "Shakib Al Hasan",
+       "balls": 54,
+       "runs": 69,
+       "wickets": 1
+      },
+      {
+       "name": "Hasan Mahmud",
+       "balls": 36,
+       "runs": 67,
+       "wickets": 2
+      },
+      {
+       "name": "Nasum Ahmed",
+       "balls": 30,
+       "runs": 27,
+       "wickets": 0
+      },
+      {
+       "name": "Mahmudullah",
+       "balls": 18,
+       "runs": 20,
+       "wickets": 0
+      }
+     ]
+    },
+    {
+     "team": "Bangladesh",
+     "runs": 233,
+     "wickets": 10,
+     "overs": "46.4",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Tanzid Hasan",
+       "runs": 12,
+       "balls": 17,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Liton Das",
+       "runs": 22,
+       "balls": 44,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "Nazmul Hossain Shanto",
+       "runs": 0,
+       "balls": 1,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "Shakib Al Hasan",
+       "runs": 1,
+       "balls": 4,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "Mushfiqur Rahim",
+       "runs": 8,
+       "balls": 17,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "Mahmudullah",
+       "runs": 111,
+       "balls": 111,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "Mehedi Hasan Miraz",
+       "runs": 11,
+       "balls": 19,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "Nasum Ahmed",
+       "runs": 19,
+       "balls": 19,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "Hasan Mahmud",
+       "runs": 15,
+       "balls": 25,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "Mustafizur Rahman",
+       "runs": 11,
+       "balls": 21,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "Shoriful Islam",
+       "runs": 6,
+       "balls": 4,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "M Jansen",
+       "balls": 48,
+       "runs": 39,
+       "wickets": 2
+      },
+      {
+       "name": "LB Williams",
+       "balls": 52,
+       "runs": 56,
+       "wickets": 2
+      },
+      {
+       "name": "G Coetzee",
+       "balls": 60,
+       "runs": 62,
+       "wickets": 3
+      },
+      {
+       "name": "K Rabada",
+       "balls": 60,
+       "runs": 42,
+       "wickets": 2
+      },
+      {
+       "name": "KA Maharaj",
+       "balls": 60,
+       "runs": 32,
+       "wickets": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384415",
+   "date": "2023-10-25",
+   "match_number": 24,
+   "stage": "league",
+   "teams": [
+    "Australia",
+    "Netherlands"
+   ],
+   "winner": "Australia",
+   "margin": {
+    "runs": 309
+   },
+   "player_of_match": [
+    "GJ Maxwell"
+   ],
+   "playing_xi": {
+    "Australia": [
+     "MR Marsh",
+     "DA Warner",
+     "SPD Smith",
+     "M Labuschagne",
+     "JP Inglis",
+     "GJ Maxwell",
+     "C Green",
+     "PJ Cummins",
+     "MA Starc",
+     "A Zampa",
+     "JR Hazlewood"
+    ],
+    "Netherlands": [
+     "Vikramjit Singh",
+     "MP O'Dowd",
+     "CN Ackermann",
+     "SA Engelbrecht",
+     "BFW de Leede",
+     "SA Edwards",
+     "AT Nidamanuru",
+     "LV van Beek",
+     "RE van der Merwe",
+     "A Dutt",
+     "PA van Meekeren"
+    ]
+   },
+   "innings": [
+    {
+     "team": "Australia",
+     "runs": 399,
+     "wickets": 8,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "MR Marsh",
+       "runs": 9,
+       "balls": 15,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "DA Warner",
+       "runs": 104,
+       "balls": 93,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "SPD Smith",
+       "runs": 71,
+       "balls": 68,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "M Labuschagne",
+       "runs": 62,
+       "balls": 47,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "JP Inglis",
+       "runs": 14,
+       "balls": 12,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "GJ Maxwell",
+       "runs": 106,
+       "balls": 44,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "C Green",
+       "runs": 8,
+       "balls": 11,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "PJ Cummins",
+       "runs": 12,
+       "balls": 9,
+       "out": false
+      },
+      {
+       "pos": 9,
+       "name": "MA Starc",
+       "runs": 0,
+       "balls": 1,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "A Zampa",
+       "runs": 1,
+       "balls": 1,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "A Dutt",
+       "balls": 42,
+       "runs": 59,
+       "wickets": 1
+      },
+      {
+       "name": "CN Ackermann",
+       "balls": 24,
+       "runs": 19,
+       "wickets": 0
+      },
+      {
+       "name": "LV van Beek",
+       "balls": 60,
+       "runs": 74,
+       "wickets": 4
+      },
+      {
+       "name": "PA van Meekeren",
+       "balls": 60,
+       "runs": 64,
+       "wickets": 0
+      },
+      {
+       "name": "Vikramjit Singh",
+       "balls": 24,
+       "runs": 27,
+       "wickets": 0
+      },
+      {
+       "name": "RE van der Merwe",
+       "balls": 30,
+       "runs": 41,
+       "wickets": 0
+      },
+      {
+       "name": "BFW de Leede",
+       "balls": 60,
+       "runs": 115,
+       "wickets": 2
+      }
+     ]
+    },
+    {
+     "team": "Netherlands",
+     "runs": 90,
+     "wickets": 10,
+     "overs": "21.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Vikramjit Singh",
+       "runs": 25,
+       "balls": 25,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "MP O'Dowd",
+       "runs": 6,
+       "balls": 9,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "CN Ackermann",
+       "runs": 10,
+       "balls": 11,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "SA Engelbrecht",
+       "runs": 11,
+       "balls": 21,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "BFW de Leede",
+       "runs": 4,
+       "balls": 7,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "SA Edwards",
+       "runs": 12,
+       "balls": 22,
+       "out": false
+      },
+      {
+       "pos": 7,
+       "name": "AT Nidamanuru",
+       "runs": 14,
+       "balls": 18,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "LV van Beek",
+       "runs": 0,
+       "balls": 3,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "RE van der Merwe",
+       "runs": 0,
+       "balls": 1,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "A Dutt",
+       "runs": 1,
+       "balls": 8,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "PA van Meekeren",
+       "runs": 0,
+       "balls": 1,
+       "out": true
+      }
+     ],
+     "bowling": [
+      {
+       "name": "MA Starc",
+       "balls": 24,
+       "runs": 22,
+       "wickets": 1
+      },
+      {
+       "name": "JR Hazlewood",
+       "balls": 36,
+       "runs": 27,
+       "wickets": 1
+      },
+      {
+       "name": "PJ Cummins",
+       "balls": 24,
+       "runs": 14,
+       "wickets": 1
+      },
+      {
+       "name": "MR Marsh",
+       "balls": 24,
+       "runs": 19,
+       "wickets": 2
+      },
+      {
+       "name": "A Zampa",
+       "balls": 18,
+       "runs": 8,
+       "wickets": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384416",
+   "date": "2023-10-26",
+   "match_number": 25,
+   "stage": "league",
+   "teams": [
+    "England",
+    "Sri Lanka"
+   ],
+   "winner": "Sri Lanka",
+   "margin": {
+    "wickets": 8
+   },
+   "player_of_match": [
+    "CBRLS Kumara"
+   ],
+   "playing_xi": {
+    "England": [
+     "JM Bairstow",
+     "DJ Malan",
+     "JE Root",
+     "BA Stokes",
+     "JC Buttler",
+     "LS Livingstone",
+     "MM Ali",
+     "CR Woakes",
+     "DJ Willey",
+     "AU Rashid",
+     "MA Wood"
+    ],
+    "Sri Lanka": [
+     "P Nissanka",
+     "MDKJ Perera",
+     "BKG Mendis",
+     "S Samarawickrama",
+     "KIC Asalanka",
+     "DM de Silva",
+     "AD Mathews",
+     "M Theekshana",
+     "CAK Rajitha",
+     "D Madushanka",
+     "CBRLS Kumara"
+    ]
+   },
+   "innings": [
+    {
+     "team": "England",
+     "runs": 156,
+     "wickets": 10,
+     "overs": "33.2",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "JM Bairstow",
+       "runs": 30,
+       "balls": 31,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "DJ Malan",
+       "runs": 28,
+       "balls": 25,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "JE Root",
+       "runs": 3,
+       "balls": 10,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "BA Stokes",
+       "runs": 43,
+       "balls": 73,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "JC Buttler",
+       "runs": 8,
+       "balls": 6,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "LS Livingstone",
+       "runs": 1,
+       "balls": 6,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "MM Ali",
+       "runs": 15,
+       "balls": 15,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "CR Woakes",
+       "runs": 0,
+       "balls": 4,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "DJ Willey",
+       "runs": 14,
+       "balls": 17,
+       "out": false
+      },
+      {
+       "pos": 10,
+       "name": "AU Rashid",
+       "runs": 2,
+       "balls": 7,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "MA Wood",
+       "runs": 5,
+       "balls": 6,
+       "out": true
+      }
+     ],
+     "bowling": [
+      {
+       "name": "D Madushanka",
+       "balls": 30,
+       "runs": 37,
+       "wickets": 0
+      },
+      {
+       "name": "CAK Rajitha",
+       "balls": 42,
+       "runs": 36,
+       "wickets": 2
+      },
+      {
+       "name": "M Theekshana",
+       "balls": 50,
+       "runs": 21,
+       "wickets": 1
+      },
+      {
+       "name": "AD Mathews",
+       "balls": 30,
+       "runs": 14,
+       "wickets": 2
+      },
+      {
+       "name": "CBRLS Kumara",
+       "balls": 42,
+       "runs": 35,
+       "wickets": 3
+      },
+      {
+       "name": "DM de Silva",
+       "balls": 6,
+       "runs": 10,
+       "wickets": 0
+      }
+     ]
+    },
+    {
+     "team": "Sri Lanka",
+     "runs": 160,
+     "wickets": 2,
+     "overs": "25.4",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "P Nissanka",
+       "runs": 77,
+       "balls": 83,
+       "out": false
+      },
+      {
+       "pos": 2,
+       "name": "MDKJ Perera",
+       "runs": 4,
+       "balls": 5,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "BKG Mendis",
+       "runs": 11,
+       "balls": 12,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "S Samarawickrama",
+       "runs": 65,
+       "balls": 54,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "CR Woakes",
+       "balls": 36,
+       "runs": 30,
+       "wickets": 0
+      },
+      {
+       "name": "DJ Willey",
+       "balls": 30,
+       "runs": 30,
+       "wickets": 2
+      },
+      {
+       "name": "AU Rashid",
+       "balls": 28,
+       "runs": 39,
+       "wickets": 0
+      },
+      {
+       "name": "MA Wood",
+       "balls": 24,
+       "runs": 23,
+       "wickets": 0
+      },
+      {
+       "name": "LS Livingstone",
+       "balls": 18,
+       "runs": 17,
+       "wickets": 0
+      },
+      {
+       "name": "MM Ali",
+       "balls": 18,
+       "runs": 21,
+       "wickets": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384417",
+   "date": "2023-10-27",
+   "match_number": 26,
+   "stage": "league",
+   "teams": [
+    "Pakistan",
+    "South Africa"
+   ],
+   "winner": "South Africa",
+   "margin": {
+    "wickets": 1
+   },
+   "player_of_match": [
+    "T Shamsi"
+   ],
+   "playing_xi": {
+    "Pakistan": [
+     "Usama Mir",
+     "Abdullah Shafique",
+     "Imam-ul-Haq",
+     "Babar Azam",
+     "Mohammad Rizwan",
+     "Iftikhar Ahmed",
+     "Saud Shakeel",
+     "Shadab Khan",
+     "Mohammad Nawaz",
+     "Shaheen Shah Afridi",
+     "Mohammad Wasim",
+     "Haris Rauf"
+    ],
+    "South Africa": [
+     "T Bavuma",
+     "Q de Kock",
+     "HE van der Dussen",
+     "AK Markram",
+     "H Klaasen",
+     "DA Miller",
+     "M Jansen",
+     "G Coetzee",
+     "KA Maharaj",
+     "L Ngidi",
+     "T Shamsi"
+    ]
+   },
+   "innings": [
+    {
+     "team": "Pakistan",
+     "runs": 270,
+     "wickets": 10,
+     "overs": "46.4",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Abdullah Shafique",
+       "runs": 9,
+       "balls": 17,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Imam-ul-Haq",
+       "runs": 12,
+       "balls": 18,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "Babar Azam",
+       "runs": 50,
+       "balls": 65,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "Mohammad Rizwan",
+       "runs": 31,
+       "balls": 27,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "Iftikhar Ahmed",
+       "runs": 21,
+       "balls": 31,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "Saud Shakeel",
+       "runs": 52,
+       "balls": 52,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "Shadab Khan",
+       "runs": 43,
+       "balls": 36,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "Mohammad Nawaz",
+       "runs": 24,
+       "balls": 24,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "Shaheen Shah Afridi",
+       "runs": 2,
+       "balls": 4,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "Mohammad Wasim",
+       "runs": 7,
+       "balls": 9,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "Haris Rauf",
+       "runs": 0,
+       "balls": 1,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "M Jansen",
+       "balls": 54,
+       "runs": 43,
+       "wickets": 3
+      },
+      {
+       "name": "L Ngidi",
+       "balls": 46,
+       "runs": 45,
+       "wickets": 1
+      },
+      {
+       "name": "AK Markram",
+       "balls": 24,
+       "runs": 20,
+       "wickets": 0
+      },
+      {
+       "name": "KA Maharaj",
+       "balls": 54,
+       "runs": 56,
+       "wickets": 0
+      },
+      {
+       "name": "G Coetzee",
+       "balls": 42,
+       "runs": 42,
+       "wickets": 2
+      },
+      {
+       "name": "T Shamsi",
+       "balls": 60,
+       "runs": 60,
+       "wickets": 4
+      }
+     ]
+    },
+    {
+     "team": "South Africa",
+     "runs": 271,
+     "wickets": 9,
+     "overs": "47.2",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "T Bavuma",
+       "runs": 28,
+       "balls": 27,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Q de Kock",
+       "runs": 24,
+       "balls": 14,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "HE van der Dussen",
+       "runs": 21,
+       "balls": 39,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "AK Markram",
+       "runs": 91,
+       "balls": 93,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "H Klaasen",
+       "runs": 12,
+       "balls": 10,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "DA Miller",
+       "runs": 29,
+       "balls": 33,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "M Jansen",
+       "runs": 20,
+       "balls": 14,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "G Coetzee",
+       "runs": 10,
+       "balls": 13,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "KA Maharaj",
+       "runs": 7,
+       "balls": 21,
+       "out": false
+      },
+      {
+       "pos": 10,
+       "name": "L Ngidi",
+       "runs": 4,
+       "balls": 14,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "T Shamsi",
+       "runs": 4,
+       "balls": 6,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "Iftikhar Ahmed",
+       "balls": 18,
+       "runs": 23,
+       "wickets": 0
+      },
+      {
+       "name": "Shaheen Shah Afridi",
+       "balls": 60,
+       "runs": 45,
+       "wickets": 3
+      },
+      {
+       "name": "Mohammad Nawaz",
+       "balls": 38,
+       "runs": 40,
+       "wickets": 0
+      },
+      {
+       "name": "Haris Rauf",
+       "balls": 60,
+       "runs": 62,
+       "wickets": 2
+      },
+      {
+       "name": "Mohammad Wasim",
+       "balls": 60,
+       "runs": 50,
+       "wickets": 2
+      },
+      {
+       "name": "Usama Mir",
+       "balls": 48,
+       "runs": 45,
+       "wickets": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384418",
+   "date": "2023-10-28",
+   "match_number": 27,
+   "stage": "league",
+   "teams": [
+    "Australia",
+    "New Zealand"
+   ],
+   "winner": "Australia",
+   "margin": {
+    "runs": 5
+   },
+   "player_of_match": [
+    "TM Head"
+   ],
+   "playing_xi": {
+    "Australia": [
+     "DA Warner",
+     "TM Head",
+     "MR Marsh",
+     "SPD Smith",
+     "M Labuschagne",
+     "GJ Maxwell",
+     "JP Inglis",
+     "PJ Cummins",
+     "MA Starc",
+     "A Zampa",
+     "JR Hazlewood"
+    ],
+    "New Zealand": [
+     "DP Conway",
+     "WA Young",
+     "R Ravindra",
+     "DJ Mitchell",
+     "TWM Latham",
+     "GD Phillips",
+     "JDS Neesham",
+     "MJ Santner",
+     "MJ Henry",
+     "TA Boult",
+     "LH Ferguson"
+    ]
+   },
+   "innings": [
+    {
+     "team": "Australia",
+     "runs": 388,
+     "wickets": 10,
+     "overs": "49.2",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "DA Warner",
+       "runs": 81,
+       "balls": 65,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "TM Head",
+       "runs": 109,
+       "balls": 67,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "MR Marsh",
+       "runs": 36,
+       "balls": 51,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "SPD Smith",
+       "runs": 18,
+       "balls": 17,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "M Labuschagne",
+       "runs": 18,
+       "balls": 26,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "GJ Maxwell",
+       "runs": 41,
+       "balls": 24,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "JP Inglis",
+       "runs": 38,
+       "balls": 28,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "PJ Cummins",
+       "runs": 37,
+       "balls": 14,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "MA Starc",
+       "runs": 1,
+       "balls": 3,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "A Zampa",
+       "runs": 0,
+       "balls": 3,
+       "out": true
+      }
+     ],
+     "bowling": [
+      {
+       "name": "MJ Henry",
+       "balls": 38,
+       "runs": 67,
+       "wickets": 1
+      },
+      {
+       "name": "TA Boult",
+       "balls": 60,
+       "runs": 77,
+       "wickets": 3
+      },
+      {
+       "name": "LH Ferguson",
+       "balls": 18,
+       "runs": 38,
+       "wickets": 0
+      },
+      {
+       "name": "MJ Santner",
+       "balls": 60,
+       "runs": 80,
+       "wickets": 2
+      },
+      {
+       "name": "GD Phillips",
+       "balls": 60,
+       "runs": 37,
+       "wickets": 3
+      },
+      {
+       "name": "R Ravindra",
+       "balls": 48,
+       "runs": 56,
+       "wickets": 0
+      },
+      {
+       "name": "JDS Neesham",
+       "balls": 12,
+       "runs": 32,
+       "wickets": 1
+      }
+     ]
+    },
+    {
+     "team": "New Zealand",
+     "runs": 383,
+     "wickets": 9,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "DP Conway",
+       "runs": 28,
+       "balls": 17,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "WA Young",
+       "runs": 32,
+       "balls": 37,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "R Ravindra",
+       "runs": 116,
+       "balls": 89,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "DJ Mitchell",
+       "runs": 54,
+       "balls": 51,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "TWM Latham",
+       "runs": 21,
+       "balls": 22,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "GD Phillips",
+       "runs": 12,
+       "balls": 16,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "JDS Neesham",
+       "runs": 58,
+       "balls": 39,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "MJ Santner",
+       "runs": 17,
+       "balls": 12,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "MJ Henry",
+       "runs": 9,
+       "balls": 8,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "TA Boult",
+       "runs": 10,
+       "balls": 8,
+       "out": false
+      },
+      {
+       "pos": 11,
+       "name": "LH Ferguson",
+       "runs": 0,
+       "balls": 1,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "MA Starc",
+       "balls": 54,
+       "runs": 89,
+       "wickets": 0
+      },
+      {
+       "name": "JR Hazlewood",
+       "balls": 54,
+       "runs": 70,
+       "wickets": 2
+      },
+      {
+       "name": "PJ Cummins",
+       "balls": 60,
+       "runs": 66,
+       "wickets": 2
+      },
+      {
+       "name": "GJ Maxwell",
+       "balls": 60,
+       "runs": 62,
+       "wickets": 1
+      },
+      {
+       "name": "A Zampa",
+       "balls": 60,
+       "runs": 74,
+       "wickets": 3
+      },
+      {
+       "name": "MR Marsh",
+       "balls": 12,
+       "runs": 18,
+       "wickets": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384419",
+   "date": "2023-10-28",
+   "match_number": 28,
+   "stage": "league",
+   "teams": [
+    "Netherlands",
+    "Bangladesh"
+   ],
+   "winner": "Netherlands",
+   "margin": {
+    "runs": 87
+   },
+   "player_of_match": [
+    "PA van Meekeren"
+   ],
+   "playing_xi": {
+    "Netherlands": [
+     "Vikramjit Singh",
+     "MP O'Dowd",
+     "W Barresi",
+     "CN Ackermann",
+     "SA Edwards",
+     "BFW de Leede",
+     "SA Engelbrecht",
+     "LV van Beek",
+     "Shariz Ahmad",
+     "A Dutt",
+     "PA van Meekeren"
+    ],
+    "Bangladesh": [
+     "Liton Das",
+     "Tanzid Hasan",
+     "Mehedi Hasan Miraz",
+     "Nazmul Hossain Shanto",
+     "Shakib Al Hasan",
+     "Mushfiqur Rahim",
+     "Mahmudullah",
+     "Mahedi Hasan",
+     "Taskin Ahmed",
+     "Mustafizur Rahman",
+     "Shoriful Islam"
+    ]
+   },
+   "innings": [
+    {
+     "team": "Netherlands",
+     "runs": 229,
+     "wickets": 10,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Vikramjit Singh",
+       "runs": 3,
+       "balls": 9,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "MP O'Dowd",
+       "runs": 0,
+       "balls": 3,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "W Barresi",
+       "runs": 41,
+       "balls": 41,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "CN Ackermann",
+       "runs": 15,
+       "balls": 33,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "SA Edwards",
+       "runs": 68,
+       "balls": 89,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "BFW de Leede",
+       "runs": 17,
+       "balls": 32,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "SA Engelbrecht",
+       "runs": 35,
+       "balls": 61,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "LV van Beek",
+       "runs": 23,
+       "balls": 16,
+       "out": false
+      },
+      {
+       "pos": 9,
+       "name": "Shariz Ahmad",
+       "runs": 6,
+       "balls": 8,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "A Dutt",
+       "runs": 9,
+       "balls": 6,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "PA van Meekeren",
+       "runs": 0,
+       "balls": 2,
+       "out": true
+      }
+     ],
+     "bowling": [
+      {
+       "name": "Shoriful Islam",
+       "balls": 60,
+       "runs": 51,
+       "wickets": 2
+      },
+      {
+       "name": "Taskin Ahmed",
+       "balls": 54,
+       "runs": 43,
+       "wickets": 2
+      },
+      {
+       "name": "Shakib Al Hasan",
+       "balls": 60,
+       "runs": 37,
+       "wickets": 1
+      },
+      {
+       "name": "Mehedi Hasan Miraz",
+       "balls": 24,
+       "runs": 17,
+       "wickets": 0
+      },
+      {
+       "name": "Mustafizur Rahman",
+       "balls": 60,
+       "runs": 36,
+       "wickets": 2
+      },
+      {
+       "name": "Mahedi Hasan",
+       "balls": 42,
+       "runs": 40,
+       "wickets": 2
+      }
+     ]
+    },
+    {
+     "team": "Bangladesh",
+     "runs": 142,
+     "wickets": 10,
+     "overs": "42.2",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Liton Das",
+       "runs": 3,
+       "balls": 12,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Tanzid Hasan",
+       "runs": 15,
+       "balls": 16,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "Mehedi Hasan Miraz",
+       "runs": 35,
+       "balls": 40,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "Nazmul Hossain Shanto",
+       "runs": 9,
+       "balls": 18,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "Shakib Al Hasan",
+       "runs": 5,
+       "balls": 14,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "Mushfiqur Rahim",
+       "runs": 1,
+       "balls": 5,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "Mahmudullah",
+       "runs": 20,
+       "balls": 41,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "Mahedi Hasan",
+       "runs": 17,
+       "balls": 38,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "Taskin Ahmed",
+       "runs": 11,
+       "balls": 35,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "Mustafizur Rahman",
+       "runs": 20,
+       "balls": 35,
+       "out": true
+      }
+     ],
+     "bowling": [
+      {
+       "name": "A Dutt",
+       "balls": 60,
+       "runs": 26,
+       "wickets": 1
+      },
+      {
+       "name": "LV van Beek",
+       "balls": 54,
+       "runs": 30,
+       "wickets": 1
+      },
+      {
+       "name": "CN Ackermann",
+       "balls": 42,
+       "runs": 25,
+       "wickets": 1
+      },
+      {
+       "name": "PA van Meekeren",
+       "balls": 44,
+       "runs": 23,
+       "wickets": 4
+      },
+      {
+       "name": "BFW de Leede",
+       "balls": 42,
+       "runs": 25,
+       "wickets": 2
+      },
+      {
+       "name": "Shariz Ahmad",
+       "balls": 12,
+       "runs": 13,
+       "wickets": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384420",
+   "date": "2023-10-29",
+   "match_number": 29,
+   "stage": "league",
+   "teams": [
+    "India",
+    "England"
+   ],
+   "winner": "India",
+   "margin": {
+    "runs": 100
+   },
+   "player_of_match": [
+    "RG Sharma"
+   ],
+   "playing_xi": {
+    "India": [
+     "RG Sharma",
+     "Shubman Gill",
+     "V Kohli",
+     "SS Iyer",
+     "KL Rahul",
+     "SA Yadav",
+     "RA Jadeja",
+     "Mohammed Shami",
+     "JJ Bumrah",
+     "Kuldeep Yadav",
+     "Mohammed Siraj"
+    ],
+    "England": [
+     "JM Bairstow",
+     "DJ Malan",
+     "JE Root",
+     "BA Stokes",
+     "JC Buttler",
+     "MM Ali",
+     "LS Livingstone",
+     "CR Woakes",
+     "DJ Willey",
+     "AU Rashid",
+     "MA Wood"
+    ]
+   },
+   "innings": [
+    {
+     "team": "India",
+     "runs": 229,
+     "wickets": 9,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "RG Sharma",
+       "runs": 87,
+       "balls": 101,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Shubman Gill",
+       "runs": 9,
+       "balls": 13,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "V Kohli",
+       "runs": 0,
+       "balls": 9,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "SS Iyer",
+       "runs": 4,
+       "balls": 16,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "KL Rahul",
+       "runs": 39,
+       "balls": 58,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "SA Yadav",
+       "runs": 49,
+       "balls": 47,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "RA Jadeja",
+       "runs": 8,
+       "balls": 13,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "Mohammed Shami",
+       "runs": 1,
+       "balls": 5,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "JJ Bumrah",
+       "runs": 16,
+       "balls": 25,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "Kuldeep Yadav",
+       "runs": 9,
+       "balls": 13,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "DJ Willey",
+       "balls": 60,
+       "runs": 45,
+       "wickets": 3
+      },
+      {
+       "name": "CR Woakes",
+       "balls": 54,
+       "runs": 33,
+       "wickets": 2
+      },
+      {
+       "name": "AU Rashid",
+       "balls": 60,
+       "runs": 35,
+       "wickets": 2
+      },
+      {
+       "name": "MA Wood",
+       "balls": 54,
+       "runs": 46,
+       "wickets": 1
+      },
+      {
+       "name": "LS Livingstone",
+       "balls": 24,
+       "runs": 29,
+       "wickets": 0
+      },
+      {
+       "name": "MM Ali",
+       "balls": 48,
+       "runs": 37,
+       "wickets": 0
+      }
+     ]
+    },
+    {
+     "team": "England",
+     "runs": 129,
+     "wickets": 10,
+     "overs": "34.5",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "JM Bairstow",
+       "runs": 14,
+       "balls": 23,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "DJ Malan",
+       "runs": 16,
+       "balls": 17,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "JE Root",
+       "runs": 0,
+       "balls": 1,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "BA Stokes",
+       "runs": 0,
+       "balls": 10,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "JC Buttler",
+       "runs": 10,
+       "balls": 23,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "MM Ali",
+       "runs": 15,
+       "balls": 31,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "LS Livingstone",
+       "runs": 27,
+       "balls": 46,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "CR Woakes",
+       "runs": 10,
+       "balls": 20,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "DJ Willey",
+       "runs": 16,
+       "balls": 17,
+       "out": false
+      },
+      {
+       "pos": 10,
+       "name": "AU Rashid",
+       "runs": 13,
+       "balls": 20,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "MA Wood",
+       "runs": 0,
+       "balls": 1,
+       "out": true
+      }
+     ],
+     "bowling": [
+      {
+       "name": "JJ Bumrah",
+       "balls": 41,
+       "runs": 32,
+       "wickets": 3
+      },
+      {
+       "name": "Mohammed Siraj",
+       "balls": 36,
+       "runs": 33,
+       "wickets": 0
+      },
+      {
+       "name": "Mohammed Shami",
+       "balls": 42,
+       "runs": 22,
+       "wickets": 4
+      },
+      {
+       "name": "Kuldeep Yadav",
+       "balls": 48,
+       "runs": 24,
+       "wickets": 2
+      },
+      {
+       "name": "RA Jadeja",
+       "balls": 42,
+       "runs": 16,
+       "wickets": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384422",
+   "date": "2023-10-31",
+   "match_number": 31,
+   "stage": "league",
+   "teams": [
+    "Bangladesh",
+    "Pakistan"
+   ],
+   "winner": "Pakistan",
+   "margin": {
+    "wickets": 7
+   },
+   "player_of_match": [
+    "Fakhar Zaman"
+   ],
+   "playing_xi": {
+    "Bangladesh": [
+     "Tanzid Hasan",
+     "Liton Das",
+     "Nazmul Hossain Shanto",
+     "Mushfiqur Rahim",
+     "Mahmudullah",
+     "Shakib Al Hasan",
+     "Towhid Hridoy",
+     "Mehedi Hasan Miraz",
+     "Taskin Ahmed",
+     "Mustafizur Rahman",
+     "Shoriful Islam"
+    ],
+    "Pakistan": [
+     "Abdullah Shafique",
+     "Fakhar Zaman",
+     "Babar Azam",
+     "Mohammad Rizwan",
+     "Iftikhar Ahmed",
+     "Saud Shakeel",
+     "Agha Salman",
+     "Shaheen Shah Afridi",
+     "Usama Mir",
+     "Mohammad Wasim",
+     "Haris Rauf"
+    ]
+   },
+   "innings": [
+    {
+     "team": "Bangladesh",
+     "runs": 204,
+     "wickets": 10,
+     "overs": "45.1",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Tanzid Hasan",
+       "runs": 0,
+       "balls": 5,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Liton Das",
+       "runs": 45,
+       "balls": 64,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "Nazmul Hossain Shanto",
+       "runs": 4,
+       "balls": 3,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "Mushfiqur Rahim",
+       "runs": 5,
+       "balls": 8,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "Mahmudullah",
+       "runs": 56,
+       "balls": 70,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "Shakib Al Hasan",
+       "runs": 43,
+       "balls": 64,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "Towhid Hridoy",
+       "runs": 7,
+       "balls": 3,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "Mehedi Hasan Miraz",
+       "runs": 25,
+       "balls": 30,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "Taskin Ahmed",
+       "runs": 6,
+       "balls": 13,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "Mustafizur Rahman",
+       "runs": 3,
+       "balls": 7,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "Shoriful Islam",
+       "runs": 1,
+       "balls": 4,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "Shaheen Shah Afridi",
+       "balls": 54,
+       "runs": 23,
+       "wickets": 3
+      },
+      {
+       "name": "Iftikhar Ahmed",
+       "balls": 60,
+       "runs": 44,
+       "wickets": 1
+      },
+      {
+       "name": "Haris Rauf",
+       "balls": 48,
+       "runs": 36,
+       "wickets": 2
+      },
+      {
+       "name": "Mohammad Wasim",
+       "balls": 49,
+       "runs": 31,
+       "wickets": 3
+      },
+      {
+       "name": "Usama Mir",
+       "balls": 60,
+       "runs": 66,
+       "wickets": 1
+      }
+     ]
+    },
+    {
+     "team": "Pakistan",
+     "runs": 205,
+     "wickets": 3,
+     "overs": "32.3",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Abdullah Shafique",
+       "runs": 68,
+       "balls": 69,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Fakhar Zaman",
+       "runs": 81,
+       "balls": 74,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "Babar Azam",
+       "runs": 9,
+       "balls": 16,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "Mohammad Rizwan",
+       "runs": 26,
+       "balls": 21,
+       "out": false
+      },
+      {
+       "pos": 5,
+       "name": "Iftikhar Ahmed",
+       "runs": 17,
+       "balls": 15,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "Taskin Ahmed",
+       "balls": 36,
+       "runs": 36,
+       "wickets": 0
+      },
+      {
+       "name": "Shoriful Islam",
+       "balls": 24,
+       "runs": 25,
+       "wickets": 0
+      },
+      {
+       "name": "Mehedi Hasan Miraz",
+       "balls": 54,
+       "runs": 60,
+       "wickets": 3
+      },
+      {
+       "name": "Mustafizur Rahman",
+       "balls": 42,
+       "runs": 47,
+       "wickets": 0
+      },
+      {
+       "name": "Shakib Al Hasan",
+       "balls": 33,
+       "runs": 30,
+       "wickets": 0
+      },
+      {
+       "name": "Nazmul Hossain Shanto",
+       "balls": 6,
+       "runs": 5,
+       "wickets": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384423",
+   "date": "2023-11-01",
+   "match_number": 32,
+   "stage": "league",
+   "teams": [
+    "South Africa",
+    "New Zealand"
+   ],
+   "winner": "South Africa",
+   "margin": {
+    "runs": 190
+   },
+   "player_of_match": [
+    "HE van der Dussen"
+   ],
+   "playing_xi": {
+    "South Africa": [
+     "Q de Kock",
+     "T Bavuma",
+     "HE van der Dussen",
+     "DA Miller",
+     "H Klaasen",
+     "AK Markram",
+     "M Jansen",
+     "G Coetzee",
+     "KA Maharaj",
+     "K Rabada",
+     "L Ngidi"
+    ],
+    "New Zealand": [
+     "DP Conway",
+     "WA Young",
+     "R Ravindra",
+     "DJ Mitchell",
+     "TWM Latham",
+     "GD Phillips",
+     "MJ Santner",
+     "TG Southee",
+     "JDS Neesham",
+     "TA Boult",
+     "MJ Henry"
+    ]
+   },
+   "innings": [
+    {
+     "team": "South Africa",
+     "runs": 357,
+     "wickets": 4,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Q de Kock",
+       "runs": 114,
+       "balls": 116,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "T Bavuma",
+       "runs": 24,
+       "balls": 28,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "HE van der Dussen",
+       "runs": 133,
+       "balls": 118,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "DA Miller",
+       "runs": 53,
+       "balls": 30,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "H Klaasen",
+       "runs": 15,
+       "balls": 7,
+       "out": false
+      },
+      {
+       "pos": 6,
+       "name": "AK Markram",
+       "runs": 6,
+       "balls": 1,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "TA Boult",
+       "balls": 60,
+       "runs": 49,
+       "wickets": 1
+      },
+      {
+       "name": "MJ Henry",
+       "balls": 33,
+       "runs": 31,
+       "wickets": 0
+      },
+      {
+       "name": "TG Southee",
+       "balls": 60,
+       "runs": 77,
+       "wickets": 2
+      },
+      {
+       "name": "MJ Santner",
+       "balls": 60,
+       "runs": 58,
+       "wickets": 0
+      },
+      {
+       "name": "GD Phillips",
+       "balls": 42,
+       "runs": 52,
+       "wickets": 0
+      },
+      {
+       "name": "R Ravindra",
+       "balls": 12,
+       "runs": 17,
+       "wickets": 0
+      },
+      {
+       "name": "JDS Neesham",
+       "balls": 33,
+       "runs": 69,
+       "wickets": 1
+      }
+     ]
+    },
+    {
+     "team": "New Zealand",
+     "runs": 167,
+     "wickets": 10,
+     "overs": "35.3",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "DP Conway",
+       "runs": 2,
+       "balls": 6,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "WA Young",
+       "runs": 33,
+       "balls": 37,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "R Ravindra",
+       "runs": 9,
+       "balls": 16,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "DJ Mitchell",
+       "runs": 24,
+       "balls": 30,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "TWM Latham",
+       "runs": 4,
+       "balls": 15,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "GD Phillips",
+       "runs": 60,
+       "balls": 50,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "MJ Santner",
+       "runs": 7,
+       "balls": 18,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "TG Southee",
+       "runs": 7,
+       "balls": 11,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "JDS Neesham",
+       "runs": 0,
+       "balls": 8,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "TA Boult",
+       "runs": 9,
+       "balls": 14,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "MJ Henry",
+       "runs": 0,
+       "balls": 9,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "M Jansen",
+       "balls": 48,
+       "runs": 31,
+       "wickets": 3
+      },
+      {
+       "name": "L Ngidi",
+       "balls": 36,
+       "runs": 28,
+       "wickets": 0
+      },
+      {
+       "name": "K Rabada",
+       "balls": 36,
+       "runs": 16,
+       "wickets": 1
+      },
+      {
+       "name": "G Coetzee",
+       "balls": 39,
+       "runs": 41,
+       "wickets": 2
+      },
+      {
+       "name": "KA Maharaj",
+       "balls": 54,
+       "runs": 46,
+       "wickets": 4
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384424",
+   "date": "2023-11-02",
+   "match_number": 33,
+   "stage": "league",
+   "teams": [
+    "India",
+    "Sri Lanka"
+   ],
+   "winner": "India",
+   "margin": {
+    "runs": 302
+   },
+   "player_of_match": [
+    "Mohammed Shami"
+   ],
+   "playing_xi": {
+    "India": [
+     "RG Sharma",
+     "Shubman Gill",
+     "V Kohli",
+     "SS Iyer",
+     "KL Rahul",
+     "SA Yadav",
+     "RA Jadeja",
+     "Mohammed Shami",
+     "JJ Bumrah",
+     "Kuldeep Yadav",
+     "Mohammed Siraj"
+    ],
+    "Sri Lanka": [
+     "P Nissanka",
+     "FDM Karunaratne",
+     "BKG Mendis",
+     "S Samarawickrama",
+     "KIC Asalanka",
+     "AD Mathews",
+     "MADI Hemantha",
+     "PVD Chameera",
+     "M Theekshana",
+     "CAK Rajitha",
+     "D Madushanka"
+    ]
+   },
+   "innings": [
+    {
+     "team": "India",
+     "runs": 357,
+     "wickets": 8,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "RG Sharma",
+       "runs": 4,
+       "balls": 2,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Shubman Gill",
+       "runs": 92,
+       "balls": 92,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "V Kohli",
+       "runs": 88,
+       "balls": 94,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "SS Iyer",
+       "runs": 82,
+       "balls": 56,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "KL Rahul",
+       "runs": 21,
+       "balls": 19,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "SA Yadav",
+       "runs": 12,
+       "balls": 9,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "RA Jadeja",
+       "runs": 35,
+       "balls": 24,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "Mohammed Shami",
+       "runs": 2,
+       "balls": 4,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "JJ Bumrah",
+       "runs": 1,
+       "balls": 1,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "D Madushanka",
+       "balls": 60,
+       "runs": 80,
+       "wickets": 5
+      },
+      {
+       "name": "PVD Chameera",
+       "balls": 60,
+       "runs": 71,
+       "wickets": 1
+      },
+      {
+       "name": "CAK Rajitha",
+       "balls": 54,
+       "runs": 65,
+       "wickets": 0
+      },
+      {
+       "name": "AD Mathews",
+       "balls": 18,
+       "runs": 11,
+       "wickets": 0
+      },
+      {
+       "name": "M Theekshana",
+       "balls": 60,
+       "runs": 67,
+       "wickets": 0
+      },
+      {
+       "name": "MADI Hemantha",
+       "balls": 48,
+       "runs": 52,
+       "wickets": 0
+      }
+     ]
+    },
+    {
+     "team": "Sri Lanka",
+     "runs": 55,
+     "wickets": 10,
+     "overs": "19.4",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "P Nissanka",
+       "runs": 0,
+       "balls": 1,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "FDM Karunaratne",
+       "runs": 0,
+       "balls": 1,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "BKG Mendis",
+       "runs": 1,
+       "balls": 10,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "S Samarawickrama",
+       "runs": 0,
+       "balls": 4,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "KIC Asalanka",
+       "runs": 1,
+       "balls": 24,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "AD Mathews",
+       "runs": 12,
+       "balls": 25,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "MADI Hemantha",
+       "runs": 0,
+       "balls": 1,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "PVD Chameera",
+       "runs": 0,
+       "balls": 6,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "M Theekshana",
+       "runs": 12,
+       "balls": 23,
+       "out": false
+      },
+      {
+       "pos": 10,
+       "name": "CAK Rajitha",
+       "runs": 14,
+       "balls": 17,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "D Madushanka",
+       "runs": 5,
+       "balls": 6,
+       "out": true
+      }
+     ],
+     "bowling": [
+      {
+       "name": "JJ Bumrah",
+       "balls": 30,
+       "runs": 8,
+       "wickets": 1
+      },
+      {
+       "name": "Mohammed Siraj",
+       "balls": 42,
+       "runs": 16,
+       "wickets": 3
+      },
+      {
+       "name": "Mohammed Shami",
+       "balls": 30,
+       "runs": 18,
+       "wickets": 5
+      },
+      {
+       "name": "Kuldeep Yadav",
+       "balls": 12,
+       "runs": 3,
+       "wickets": 0
+      },
+      {
+       "name": "RA Jadeja",
+       "balls": 4,
+       "runs": 4,
+       "wickets": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384426",
+   "date": "2023-11-04",
+   "match_number": 35,
+   "stage": "league",
+   "teams": [
+    "New Zealand",
+    "Pakistan"
+   ],
+   "winner": "Pakistan",
+   "margin": {
+    "runs": 21
+   },
+   "method": "D/L",
+   "player_of_match": [
+    "Fakhar Zaman"
+   ],
+   "playing_xi": {
+    "New Zealand": [
+     "DP Conway",
+     "R Ravindra",
+     "KS Williamson",
+     "DJ Mitchell",
+     "MS Chapman",
+     "GD Phillips",
+     "MJ Santner",
+     "TWM Latham",
+     "IS Sodhi",
+     "TG Southee",
+     "TA Boult"
+    ],
+    "Pakistan": [
+     "Abdullah Shafique",
+     "Fakhar Zaman",
+     "Babar Azam",
+     "Mohammad Rizwan",
+     "Saud Shakeel",
+     "Iftikhar Ahmed",
+     "Agha Salman",
+     "Hasan Ali",
+     "Shaheen Shah Afridi",
+     "Mohammad Wasim",
+     "Haris Rauf"
+    ]
+   },
+   "innings": [
+    {
+     "team": "New Zealand",
+     "runs": 401,
+     "wickets": 6,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "DP Conway",
+       "runs": 35,
+       "balls": 39,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "R Ravindra",
+       "runs": 108,
+       "balls": 94,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "KS Williamson",
+       "runs": 95,
+       "balls": 79,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "DJ Mitchell",
+       "runs": 29,
+       "balls": 18,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "MS Chapman",
+       "runs": 39,
+       "balls": 27,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "GD Phillips",
+       "runs": 41,
+       "balls": 25,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "MJ Santner",
+       "runs": 26,
+       "balls": 17,
+       "out": false
+      },
+      {
+       "pos": 8,
+       "name": "TWM Latham",
+       "runs": 2,
+       "balls": 2,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "Shaheen Shah Afridi",
+       "balls": 60,
+       "runs": 90,
+       "wickets": 0
+      },
+      {
+       "name": "Hasan Ali",
+       "balls": 60,
+       "runs": 82,
+       "wickets": 1
+      },
+      {
+       "name": "Iftikhar Ahmed",
+       "balls": 48,
+       "runs": 55,
+       "wickets": 1
+      },
+      {
+       "name": "Haris Rauf",
+       "balls": 60,
+       "runs": 85,
+       "wickets": 1
+      },
+      {
+       "name": "Mohammad Wasim",
+       "balls": 60,
+       "runs": 60,
+       "wickets": 3
+      },
+      {
+       "name": "Agha Salman",
+       "balls": 12,
+       "runs": 21,
+       "wickets": 0
+      }
+     ]
+    },
+    {
+     "team": "Pakistan",
+     "runs": 200,
+     "wickets": 1,
+     "overs": "25.3",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Abdullah Shafique",
+       "runs": 4,
+       "balls": 9,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Fakhar Zaman",
+       "runs": 126,
+       "balls": 81,
+       "out": false
+      },
+      {
+       "pos": 3,
+       "name": "Babar Azam",
+       "runs": 66,
+       "balls": 63,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "TA Boult",
+       "balls": 36,
+       "runs": 50,
+       "wickets": 0
+      },
+      {
+       "name": "TG Southee",
+       "balls": 30,
+       "runs": 27,
+       "wickets": 1
+      },
+      {
+       "name": "MJ Santner",
+       "balls": 30,
+       "runs": 35,
+       "wickets": 0
+      },
+      {
+       "name": "GD Phillips",
+       "balls": 30,
+       "runs": 42,
+       "wickets": 0
+      },
+      {
+       "name": "IS Sodhi",
+       "balls": 24,
+       "runs": 44,
+       "wickets": 0
+      },
+      {
+       "name": "DJ Mitchell",
+       "balls": 3,
+       "runs": 1,
+       "wickets": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384427",
+   "date": "2023-11-04",
+   "match_number": 36,
+   "stage": "league",
+   "teams": [
+    "Australia",
+    "England"
+   ],
+   "winner": "Australia",
+   "margin": {
+    "runs": 33
+   },
+   "player_of_match": [
+    "A Zampa"
+   ],
+   "playing_xi": {
+    "Australia": [
+     "TM Head",
+     "DA Warner",
+     "SPD Smith",
+     "M Labuschagne",
+     "JP Inglis",
+     "C Green",
+     "MP Stoinis",
+     "PJ Cummins",
+     "MA Starc",
+     "A Zampa",
+     "JR Hazlewood"
+    ],
+    "England": [
+     "JM Bairstow",
+     "DJ Malan",
+     "JE Root",
+     "BA Stokes",
+     "JC Buttler",
+     "MM Ali",
+     "LS Livingstone",
+     "CR Woakes",
+     "DJ Willey",
+     "AU Rashid",
+     "MA Wood"
+    ]
+   },
+   "innings": [
+    {
+     "team": "Australia",
+     "runs": 286,
+     "wickets": 10,
+     "overs": "49.3",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "TM Head",
+       "runs": 11,
+       "balls": 10,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "DA Warner",
+       "runs": 15,
+       "balls": 16,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "SPD Smith",
+       "runs": 44,
+       "balls": 52,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "M Labuschagne",
+       "runs": 71,
+       "balls": 83,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "JP Inglis",
+       "runs": 3,
+       "balls": 6,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "C Green",
+       "runs": 47,
+       "balls": 52,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "MP Stoinis",
+       "runs": 35,
+       "balls": 32,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "PJ Cummins",
+       "runs": 10,
+       "balls": 13,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "MA Starc",
+       "runs": 10,
+       "balls": 13,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "A Zampa",
+       "runs": 29,
+       "balls": 19,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "JR Hazlewood",
+       "runs": 1,
+       "balls": 1,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "DJ Willey",
+       "balls": 60,
+       "runs": 48,
+       "wickets": 1
+      },
+      {
+       "name": "CR Woakes",
+       "balls": 57,
+       "runs": 54,
+       "wickets": 4
+      },
+      {
+       "name": "MA Wood",
+       "balls": 60,
+       "runs": 70,
+       "wickets": 2
+      },
+      {
+       "name": "LS Livingstone",
+       "balls": 36,
+       "runs": 42,
+       "wickets": 1
+      },
+      {
+       "name": "MM Ali",
+       "balls": 24,
+       "runs": 28,
+       "wickets": 0
+      },
+      {
+       "name": "AU Rashid",
+       "balls": 60,
+       "runs": 38,
+       "wickets": 2
+      }
+     ]
+    },
+    {
+     "team": "England",
+     "runs": 253,
+     "wickets": 10,
+     "overs": "48.1",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "JM Bairstow",
+       "runs": 0,
+       "balls": 1,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "DJ Malan",
+       "runs": 50,
+       "balls": 64,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "JE Root",
+       "runs": 13,
+       "balls": 17,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "BA Stokes",
+       "runs": 64,
+       "balls": 90,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "JC Buttler",
+       "runs": 1,
+       "balls": 7,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "MM Ali",
+       "runs": 42,
+       "balls": 43,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "LS Livingstone",
+       "runs": 2,
+       "balls": 5,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "CR Woakes",
+       "runs": 32,
+       "balls": 33,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "DJ Willey",
+       "runs": 15,
+       "balls": 14,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "AU Rashid",
+       "runs": 20,
+       "balls": 15,
+       "out": true
+      }
+     ],
+     "bowling": [
+      {
+       "name": "MA Starc",
+       "balls": 60,
+       "runs": 66,
+       "wickets": 2
+      },
+      {
+       "name": "JR Hazlewood",
+       "balls": 55,
+       "runs": 49,
+       "wickets": 2
+      },
+      {
+       "name": "PJ Cummins",
+       "balls": 60,
+       "runs": 49,
+       "wickets": 2
+      },
+      {
+       "name": "A Zampa",
+       "balls": 60,
+       "runs": 21,
+       "wickets": 3
+      },
+      {
+       "name": "TM Head",
+       "balls": 30,
+       "runs": 28,
+       "wickets": 0
+      },
+      {
+       "name": "MP Stoinis",
+       "balls": 24,
+       "runs": 34,
+       "wickets": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384428",
+   "date": "2023-11-05",
+   "match_number": 37,
+   "stage": "league",
+   "teams": [
+    "India",
+    "South Africa"
+   ],
+   "winner": "India",
+   "margin": {
+    "runs": 243
+   },
+   "player_of_match": [
+    "V Kohli"
+   ],
+   "playing_xi": {
+    "India": [
+     "RG Sharma",
+     "Shubman Gill",
+     "V Kohli",
+     "SS Iyer",
+     "KL Rahul",
+     "SA Yadav",
+     "RA Jadeja",
+     "Mohammed Shami",
+     "JJ Bumrah",
+     "Kuldeep Yadav",
+     "Mohammed Siraj"
+    ],
+    "South Africa": [
+     "Q de Kock",
+     "T Bavuma",
+     "HE van der Dussen",
+     "AK Markram",
+     "H Klaasen",
+     "DA Miller",
+     "M Jansen",
+     "KA Maharaj",
+     "K Rabada",
+     "L Ngidi",
+     "T Shamsi"
+    ]
+   },
+   "innings": [
+    {
+     "team": "India",
+     "runs": 326,
+     "wickets": 5,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "RG Sharma",
+       "runs": 40,
+       "balls": 24,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Shubman Gill",
+       "runs": 23,
+       "balls": 24,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "V Kohli",
+       "runs": 101,
+       "balls": 121,
+       "out": false
+      },
+      {
+       "pos": 4,
+       "name": "SS Iyer",
+       "runs": 77,
+       "balls": 87,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "KL Rahul",
+       "runs": 8,
+       "balls": 17,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "SA Yadav",
+       "runs": 22,
+       "balls": 14,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "RA Jadeja",
+       "runs": 29,
+       "balls": 15,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "L Ngidi",
+       "balls": 50,
+       "runs": 63,
+       "wickets": 1
+      },
+      {
+       "name": "M Jansen",
+       "balls": 58,
+       "runs": 94,
+       "wickets": 1
+      },
+      {
+       "name": "K Rabada",
+       "balls": 60,
+       "runs": 48,
+       "wickets": 1
+      },
+      {
+       "name": "KA Maharaj",
+       "balls": 60,
+       "runs": 30,
+       "wickets": 1
+      },
+      {
+       "name": "T Shamsi",
+       "balls": 60,
+       "runs": 72,
+       "wickets": 1
+      },
+      {
+       "name": "AK Markram",
+       "balls": 12,
+       "runs": 17,
+       "wickets": 0
+      }
+     ]
+    },
+    {
+     "team": "South Africa",
+     "runs": 83,
+     "wickets": 10,
+     "overs": "27.1",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Q de Kock",
+       "runs": 5,
+       "balls": 10,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "T Bavuma",
+       "runs": 11,
+       "balls": 19,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "HE van der Dussen",
+       "runs": 13,
+       "balls": 32,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "AK Markram",
+       "runs": 9,
+       "balls": 6,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "H Klaasen",
+       "runs": 1,
+       "balls": 11,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "DA Miller",
+       "runs": 11,
+       "balls": 11,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "M Jansen",
+       "runs": 14,
+       "balls": 30,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "KA Maharaj",
+       "runs": 7,
+       "balls": 11,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "K Rabada",
+       "runs": 6,
+       "balls": 26,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "L Ngidi",
+       "runs": 0,
+       "balls": 3,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "T Shamsi",
+       "runs": 4,
+       "balls": 4,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "JJ Bumrah",
+       "balls": 30,
+       "runs": 14,
+       "wickets": 0
+      },
+      {
+       "name": "Mohammed Siraj",
+       "balls": 24,
+       "runs": 11,
+       "wickets": 1
+      },
+      {
+       "name": "RA Jadeja",
+       "balls": 54,
+       "runs": 33,
+       "wickets": 5
+      },
+      {
+       "name": "Mohammed Shami",
+       "balls": 24,
+       "runs": 18,
+       "wickets": 2
+      },
+      {
+       "name": "Kuldeep Yadav",
+       "balls": 31,
+       "runs": 7,
+       "wickets": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384429",
+   "date": "2023-11-06",
+   "match_number": 38,
+   "stage": "league",
+   "teams": [
+    "Sri Lanka",
+    "Bangladesh"
+   ],
+   "winner": "Bangladesh",
+   "margin": {
+    "wickets": 3
+   },
+   "player_of_match": [
+    "Shakib Al Hasan"
+   ],
+   "playing_xi": {
+    "Sri Lanka": [
+     "P Nissanka",
+     "MDKJ Perera",
+     "BKG Mendis",
+     "S Samarawickrama",
+     "KIC Asalanka",
+     "AD Mathews",
+     "DM de Silva",
+     "M Theekshana",
+     "PVD Chameera",
+     "CAK Rajitha",
+     "D Madushanka"
+    ],
+    "Bangladesh": [
+     "Tanzid Hasan",
+     "Liton Das",
+     "Nazmul Hossain Shanto",
+     "Shakib Al Hasan",
+     "Mahmudullah",
+     "Mushfiqur Rahim",
+     "Towhid Hridoy",
+     "Mehedi Hasan Miraz",
+     "Tanzim Hasan Sakib",
+     "Taskin Ahmed",
+     "Shoriful Islam"
+    ]
+   },
+   "innings": [
+    {
+     "team": "Sri Lanka",
+     "runs": 279,
+     "wickets": 10,
+     "overs": "49.3",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "P Nissanka",
+       "runs": 41,
+       "balls": 36,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "MDKJ Perera",
+       "runs": 4,
+       "balls": 5,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "BKG Mendis",
+       "runs": 19,
+       "balls": 30,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "S Samarawickrama",
+       "runs": 41,
+       "balls": 42,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "KIC Asalanka",
+       "runs": 108,
+       "balls": 105,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "AD Mathews",
+       "runs": 0,
+       "balls": 0,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "DM de Silva",
+       "runs": 34,
+       "balls": 36,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "M Theekshana",
+       "runs": 21,
+       "balls": 31,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "PVD Chameera",
+       "runs": 4,
+       "balls": 9,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "CAK Rajitha",
+       "runs": 0,
+       "balls": 2,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "D Madushanka",
+       "runs": 0,
+       "balls": 1,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "Shoriful Islam",
+       "balls": 57,
+       "runs": 51,
+       "wickets": 2
+      },
+      {
+       "name": "Taskin Ahmed",
+       "balls": 60,
+       "runs": 39,
+       "wickets": 0
+      },
+      {
+       "name": "Tanzim Hasan Sakib",
+       "balls": 60,
+       "runs": 80,
+       "wickets": 3
+      },
+      {
+       "name": "Shakib Al Hasan",
+       "balls": 60,
+       "runs": 57,
+       "wickets": 3
+      },
+      {
+       "name": "Mehedi Hasan Miraz",
+       "balls": 60,
+       "runs": 49,
+       "wickets": 1
+      }
+     ]
+    },
+    {
+     "team": "Bangladesh",
+     "runs": 282,
+     "wickets": 7,
+     "overs": "41.1",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Tanzid Hasan",
+       "runs": 9,
+       "balls": 5,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Liton Das",
+       "runs": 23,
+       "balls": 22,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "Nazmul Hossain Shanto",
+       "runs": 90,
+       "balls": 101,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "Shakib Al Hasan",
+       "runs": 82,
+       "balls": 65,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "Mahmudullah",
+       "runs": 22,
+       "balls": 23,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "Mushfiqur Rahim",
+       "runs": 10,
+       "balls": 13,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "Towhid Hridoy",
+       "runs": 15,
+       "balls": 7,
+       "out": false
+      },
+      {
+       "pos": 8,
+       "name": "Mehedi Hasan Miraz",
+       "runs": 3,
+       "balls": 5,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "Tanzim Hasan Sakib",
+       "runs": 5,
+       "balls": 6,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "D Madushanka",
+       "balls": 60,
+       "runs": 69,
+       "wickets": 3
+      },
+      {
+       "name": "M Theekshana",
+       "balls": 54,
+       "runs": 44,
+       "wickets": 2
+      },
+      {
+       "name": "CAK Rajitha",
+       "balls": 24,
+       "runs": 47,
+       "wickets": 0
+      },
+      {
+       "name": "PVD Chameera",
+       "balls": 48,
+       "runs": 54,
+       "wickets": 0
+      },
+      {
+       "name": "AD Mathews",
+       "balls": 43,
+       "runs": 35,
+       "wickets": 2
+      },
+      {
+       "name": "DM de Silva",
+       "balls": 18,
+       "runs": 20,
+       "wickets": 0
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384431",
+   "date": "2023-11-08",
+   "match_number": 40,
+   "stage": "league",
+   "teams": [
+    "England",
+    "Netherlands"
+   ],
+   "winner": "England",
+   "margin": {
+    "runs": 160
+   },
+   "player_of_match": [
+    "BA Stokes"
+   ],
+   "playing_xi": {
+    "England": [
+     "JM Bairstow",
+     "DJ Malan",
+     "JE Root",
+     "BA Stokes",
+     "HC Brook",
+     "JC Buttler",
+     "MM Ali",
+     "CR Woakes",
+     "DJ Willey",
+     "AAP Atkinson",
+     "AU Rashid"
+    ],
+    "Netherlands": [
+     "W Barresi",
+     "MP O'Dowd",
+     "CN Ackermann",
+     "SA Engelbrecht",
+     "SA Edwards",
+     "BFW de Leede",
+     "AT Nidamanuru",
+     "LV van Beek",
+     "RE van der Merwe",
+     "A Dutt",
+     "PA van Meekeren"
+    ]
+   },
+   "innings": [
+    {
+     "team": "England",
+     "runs": 339,
+     "wickets": 9,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "JM Bairstow",
+       "runs": 15,
+       "balls": 17,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "DJ Malan",
+       "runs": 87,
+       "balls": 74,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "JE Root",
+       "runs": 28,
+       "balls": 35,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "BA Stokes",
+       "runs": 108,
+       "balls": 84,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "HC Brook",
+       "runs": 11,
+       "balls": 16,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "JC Buttler",
+       "runs": 5,
+       "balls": 11,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "MM Ali",
+       "runs": 4,
+       "balls": 15,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "CR Woakes",
+       "runs": 51,
+       "balls": 45,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "DJ Willey",
+       "runs": 6,
+       "balls": 2,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "AAP Atkinson",
+       "runs": 2,
+       "balls": 1,
+       "out": false
+      },
+      {
+       "pos": 11,
+       "name": "AU Rashid",
+       "runs": 1,
+       "balls": 1,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "A Dutt",
+       "balls": 60,
+       "runs": 67,
+       "wickets": 2
+      },
+      {
+       "name": "LV van Beek",
+       "balls": 60,
+       "runs": 88,
+       "wickets": 2
+      },
+      {
+       "name": "PA van Meekeren",
+       "balls": 60,
+       "runs": 57,
+       "wickets": 1
+      },
+      {
+       "name": "BFW de Leede",
+       "balls": 60,
+       "runs": 74,
+       "wickets": 3
+      },
+      {
+       "name": "RE van der Merwe",
+       "balls": 18,
+       "runs": 22,
+       "wickets": 0
+      },
+      {
+       "name": "CN Ackermann",
+       "balls": 42,
+       "runs": 31,
+       "wickets": 0
+      }
+     ]
+    },
+    {
+     "team": "Netherlands",
+     "runs": 179,
+     "wickets": 10,
+     "overs": "37.2",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "W Barresi",
+       "runs": 37,
+       "balls": 62,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "MP O'Dowd",
+       "runs": 5,
+       "balls": 11,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "CN Ackermann",
+       "runs": 0,
+       "balls": 2,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "SA Engelbrecht",
+       "runs": 33,
+       "balls": 49,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "SA Edwards",
+       "runs": 38,
+       "balls": 42,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "BFW de Leede",
+       "runs": 10,
+       "balls": 12,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "AT Nidamanuru",
+       "runs": 41,
+       "balls": 34,
+       "out": false
+      },
+      {
+       "pos": 8,
+       "name": "LV van Beek",
+       "runs": 2,
+       "balls": 2,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "RE van der Merwe",
+       "runs": 0,
+       "balls": 4,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "A Dutt",
+       "runs": 1,
+       "balls": 3,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "PA van Meekeren",
+       "runs": 4,
+       "balls": 3,
+       "out": true
+      }
+     ],
+     "bowling": [
+      {
+       "name": "CR Woakes",
+       "balls": 42,
+       "runs": 19,
+       "wickets": 1
+      },
+      {
+       "name": "DJ Willey",
+       "balls": 42,
+       "runs": 19,
+       "wickets": 2
+      },
+      {
+       "name": "AAP Atkinson",
+       "balls": 42,
+       "runs": 41,
+       "wickets": 0
+      },
+      {
+       "name": "MM Ali",
+       "balls": 50,
+       "runs": 42,
+       "wickets": 3
+      },
+      {
+       "name": "AU Rashid",
+       "balls": 48,
+       "runs": 54,
+       "wickets": 3
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384432",
+   "date": "2023-11-09",
+   "match_number": 41,
+   "stage": "league",
+   "teams": [
+    "Sri Lanka",
+    "New Zealand"
+   ],
+   "winner": "New Zealand",
+   "margin": {
+    "wickets": 5
+   },
+   "player_of_match": [
+    "TA Boult"
+   ],
+   "playing_xi": {
+    "Sri Lanka": [
+     "P Nissanka",
+     "MDKJ Perera",
+     "BKG Mendis",
+     "S Samarawickrama",
+     "KIC Asalanka",
+     "AD Mathews",
+     "DM de Silva",
+     "C Karunaratne",
+     "M Theekshana",
+     "PVD Chameera",
+     "D Madushanka"
+    ],
+    "New Zealand": [
+     "DP Conway",
+     "R Ravindra",
+     "KS Williamson",
+     "DJ Mitchell",
+     "MS Chapman",
+     "GD Phillips",
+     "TWM Latham",
+     "MJ Santner",
+     "LH Ferguson",
+     "TG Southee",
+     "TA Boult"
+    ]
+   },
+   "innings": [
+    {
+     "team": "Sri Lanka",
+     "runs": 171,
+     "wickets": 10,
+     "overs": "46.4",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "P Nissanka",
+       "runs": 2,
+       "balls": 8,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "MDKJ Perera",
+       "runs": 51,
+       "balls": 28,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "BKG Mendis",
+       "runs": 6,
+       "balls": 7,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "S Samarawickrama",
+       "runs": 1,
+       "balls": 2,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "KIC Asalanka",
+       "runs": 8,
+       "balls": 8,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "AD Mathews",
+       "runs": 16,
+       "balls": 27,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "DM de Silva",
+       "runs": 19,
+       "balls": 24,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "C Karunaratne",
+       "runs": 6,
+       "balls": 17,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "M Theekshana",
+       "runs": 38,
+       "balls": 91,
+       "out": false
+      },
+      {
+       "pos": 10,
+       "name": "PVD Chameera",
+       "runs": 1,
+       "balls": 20,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "D Madushanka",
+       "runs": 19,
+       "balls": 48,
+       "out": true
+      }
+     ],
+     "bowling": [
+      {
+       "name": "TA Boult",
+       "balls": 60,
+       "runs": 37,
+       "wickets": 3
+      },
+      {
+       "name": "TG Southee",
+       "balls": 48,
+       "runs": 52,
+       "wickets": 1
+      },
+      {
+       "name": "LH Ferguson",
+       "balls": 60,
+       "runs": 35,
+       "wickets": 2
+      },
+      {
+       "name": "MJ Santner",
+       "balls": 60,
+       "runs": 22,
+       "wickets": 2
+      },
+      {
+       "name": "R Ravindra",
+       "balls": 46,
+       "runs": 21,
+       "wickets": 2
+      },
+      {
+       "name": "GD Phillips",
+       "balls": 6,
+       "runs": 3,
+       "wickets": 0
+      }
+     ]
+    },
+    {
+     "team": "New Zealand",
+     "runs": 172,
+     "wickets": 5,
+     "overs": "23.2",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "DP Conway",
+       "runs": 45,
+       "balls": 42,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "R Ravindra",
+       "runs": 42,
+       "balls": 34,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "KS Williamson",
+       "runs": 14,
+       "balls": 15,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "DJ Mitchell",
+       "runs": 43,
+       "balls": 31,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "MS Chapman",
+       "runs": 7,
+       "balls": 6,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "GD Phillips",
+       "runs": 17,
+       "balls": 10,
+       "out": false
+      },
+      {
+       "pos": 7,
+       "name": "TWM Latham",
+       "runs": 2,
+       "balls": 2,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "D Madushanka",
+       "balls": 38,
+       "runs": 58,
+       "wickets": 0
+      },
+      {
+       "name": "M Theekshana",
+       "balls": 42,
+       "runs": 43,
+       "wickets": 1
+      },
+      {
+       "name": "DM de Silva",
+       "balls": 12,
+       "runs": 22,
+       "wickets": 0
+      },
+      {
+       "name": "PVD Chameera",
+       "balls": 24,
+       "runs": 20,
+       "wickets": 1
+      },
+      {
+       "name": "AD Mathews",
+       "balls": 24,
+       "runs": 29,
+       "wickets": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384434",
+   "date": "2023-11-11",
+   "match_number": 43,
+   "stage": "league",
+   "teams": [
+    "Bangladesh",
+    "Australia"
+   ],
+   "winner": "Australia",
+   "margin": {
+    "wickets": 8
+   },
+   "player_of_match": [
+    "MR Marsh"
+   ],
+   "playing_xi": {
+    "Bangladesh": [
+     "Tanzid Hasan",
+     "Liton Das",
+     "Nazmul Hossain Shanto",
+     "Towhid Hridoy",
+     "Mahmudullah",
+     "Mushfiqur Rahim",
+     "Mehedi Hasan Miraz",
+     "Nasum Ahmed",
+     "Mahedi Hasan",
+     "Taskin Ahmed",
+     "Mustafizur Rahman"
+    ],
+    "Australia": [
+     "TM Head",
+     "DA Warner",
+     "MR Marsh",
+     "SPD Smith",
+     "M Labuschagne",
+     "JP Inglis",
+     "MP Stoinis",
+     "PJ Cummins",
+     "A Zampa",
+     "JR Hazlewood",
+     "SA Abbott"
+    ]
+   },
+   "innings": [
+    {
+     "team": "Bangladesh",
+     "runs": 306,
+     "wickets": 8,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Tanzid Hasan",
+       "runs": 36,
+       "balls": 34,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Liton Das",
+       "runs": 36,
+       "balls": 45,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "Nazmul Hossain Shanto",
+       "runs": 45,
+       "balls": 57,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "Towhid Hridoy",
+       "runs": 74,
+       "balls": 79,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "Mahmudullah",
+       "runs": 32,
+       "balls": 28,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "Mushfiqur Rahim",
+       "runs": 21,
+       "balls": 24,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "Mehedi Hasan Miraz",
+       "runs": 29,
+       "balls": 20,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "Nasum Ahmed",
+       "runs": 7,
+       "balls": 11,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "Mahedi Hasan",
+       "runs": 2,
+       "balls": 3,
+       "out": false
+      },
+      {
+       "pos": 10,
+       "name": "Taskin Ahmed",
+       "runs": 0,
+       "balls": 1,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "JR Hazlewood",
+       "balls": 42,
+       "runs": 21,
+       "wickets": 0
+      },
+      {
+       "name": "PJ Cummins",
+       "balls": 48,
+       "runs": 56,
+       "wickets": 0
+      },
+      {
+       "name": "SA Abbott",
+       "balls": 60,
+       "runs": 61,
+       "wickets": 2
+      },
+      {
+       "name": "MR Marsh",
+       "balls": 24,
+       "runs": 48,
+       "wickets": 0
+      },
+      {
+       "name": "A Zampa",
+       "balls": 60,
+       "runs": 32,
+       "wickets": 2
+      },
+      {
+       "name": "TM Head",
+       "balls": 36,
+       "runs": 33,
+       "wickets": 0
+      },
+      {
+       "name": "MP Stoinis",
+       "balls": 30,
+       "runs": 45,
+       "wickets": 1
+      }
+     ]
+    },
+    {
+     "team": "Australia",
+     "runs": 307,
+     "wickets": 2,
+     "overs": "44.4",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "TM Head",
+       "runs": 10,
+       "balls": 11,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "DA Warner",
+       "runs": 53,
+       "balls": 61,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "MR Marsh",
+       "runs": 177,
+       "balls": 132,
+       "out": false
+      },
+      {
+       "pos": 4,
+       "name": "SPD Smith",
+       "runs": 63,
+       "balls": 64,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "Taskin Ahmed",
+       "balls": 60,
+       "runs": 61,
+       "wickets": 1
+      },
+      {
+       "name": "Mahedi Hasan",
+       "balls": 54,
+       "runs": 38,
+       "wickets": 0
+      },
+      {
+       "name": "Nasum Ahmed",
+       "balls": 60,
+       "runs": 85,
+       "wickets": 0
+      },
+      {
+       "name": "Mehedi Hasan Miraz",
+       "balls": 36,
+       "runs": 47,
+       "wickets": 0
+      },
+      {
+       "name": "Mustafizur Rahman",
+       "balls": 58,
+       "runs": 76,
+       "wickets": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384435",
+   "date": "2023-11-11",
+   "match_number": 44,
+   "stage": "league",
+   "teams": [
+    "England",
+    "Pakistan"
+   ],
+   "winner": "England",
+   "margin": {
+    "runs": 93
+   },
+   "player_of_match": [
+    "DJ Willey"
+   ],
+   "playing_xi": {
+    "England": [
+     "DJ Malan",
+     "JM Bairstow",
+     "JE Root",
+     "BA Stokes",
+     "JC Buttler",
+     "HC Brook",
+     "MM Ali",
+     "CR Woakes",
+     "DJ Willey",
+     "AAP Atkinson",
+     "AU Rashid"
+    ],
+    "Pakistan": [
+     "Abdullah Shafique",
+     "Fakhar Zaman",
+     "Babar Azam",
+     "Mohammad Rizwan",
+     "Saud Shakeel",
+     "Agha Salman",
+     "Iftikhar Ahmed",
+     "Shadab Khan",
+     "Shaheen Shah Afridi",
+     "Mohammad Wasim",
+     "Haris Rauf"
+    ]
+   },
+   "innings": [
+    {
+     "team": "England",
+     "runs": 337,
+     "wickets": 9,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "DJ Malan",
+       "runs": 31,
+       "balls": 39,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "JM Bairstow",
+       "runs": 59,
+       "balls": 61,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "JE Root",
+       "runs": 60,
+       "balls": 72,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "BA Stokes",
+       "runs": 84,
+       "balls": 76,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "JC Buttler",
+       "runs": 27,
+       "balls": 18,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "HC Brook",
+       "runs": 30,
+       "balls": 17,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "MM Ali",
+       "runs": 8,
+       "balls": 6,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "CR Woakes",
+       "runs": 4,
+       "balls": 4,
+       "out": false
+      },
+      {
+       "pos": 9,
+       "name": "DJ Willey",
+       "runs": 15,
+       "balls": 5,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "AAP Atkinson",
+       "runs": 0,
+       "balls": 1,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "AU Rashid",
+       "runs": 0,
+       "balls": 1,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "Shaheen Shah Afridi",
+       "balls": 60,
+       "runs": 72,
+       "wickets": 2
+      },
+      {
+       "name": "Haris Rauf",
+       "balls": 60,
+       "runs": 64,
+       "wickets": 3
+      },
+      {
+       "name": "Iftikhar Ahmed",
+       "balls": 42,
+       "runs": 38,
+       "wickets": 1
+      },
+      {
+       "name": "Mohammad Wasim",
+       "balls": 60,
+       "runs": 74,
+       "wickets": 2
+      },
+      {
+       "name": "Shadab Khan",
+       "balls": 60,
+       "runs": 57,
+       "wickets": 0
+      },
+      {
+       "name": "Agha Salman",
+       "balls": 18,
+       "runs": 25,
+       "wickets": 0
+      }
+     ]
+    },
+    {
+     "team": "Pakistan",
+     "runs": 244,
+     "wickets": 10,
+     "overs": "43.3",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Abdullah Shafique",
+       "runs": 0,
+       "balls": 2,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Fakhar Zaman",
+       "runs": 1,
+       "balls": 9,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "Babar Azam",
+       "runs": 38,
+       "balls": 45,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "Mohammad Rizwan",
+       "runs": 36,
+       "balls": 51,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "Saud Shakeel",
+       "runs": 29,
+       "balls": 37,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "Agha Salman",
+       "runs": 51,
+       "balls": 45,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "Iftikhar Ahmed",
+       "runs": 3,
+       "balls": 5,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "Shadab Khan",
+       "runs": 4,
+       "balls": 7,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "Shaheen Shah Afridi",
+       "runs": 25,
+       "balls": 23,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "Mohammad Wasim",
+       "runs": 16,
+       "balls": 14,
+       "out": false
+      },
+      {
+       "pos": 11,
+       "name": "Haris Rauf",
+       "runs": 35,
+       "balls": 23,
+       "out": true
+      }
+     ],
+     "bowling": [
+      {
+       "name": "DJ Willey",
+       "balls": 60,
+       "runs": 56,
+       "wickets": 3
+      },
+      {
+       "name": "CR Woakes",
+       "balls": 33,
+       "runs": 27,
+       "wickets": 1
+      },
+      {
+       "name": "AU Rashid",
+       "balls": 60,
+       "runs": 55,
+       "wickets": 2
+      },
+      {
+       "name": "AAP Atkinson",
+       "balls": 48,
+       "runs": 45,
+       "wickets": 2
+      },
+      {
+       "name": "MM Ali",
+       "balls": 60,
+       "runs": 60,
+       "wickets": 2
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384436",
+   "date": "2023-11-12",
+   "match_number": 45,
+   "stage": "league",
+   "teams": [
+    "India",
+    "Netherlands"
+   ],
+   "winner": "India",
+   "margin": {
+    "runs": 160
+   },
+   "player_of_match": [
+    "SS Iyer"
+   ],
+   "playing_xi": {
+    "India": [
+     "RG Sharma",
+     "Shubman Gill",
+     "V Kohli",
+     "SS Iyer",
+     "KL Rahul",
+     "SA Yadav",
+     "RA Jadeja",
+     "JJ Bumrah",
+     "Mohammed Shami",
+     "Kuldeep Yadav",
+     "Mohammed Siraj"
+    ],
+    "Netherlands": [
+     "W Barresi",
+     "MP O'Dowd",
+     "CN Ackermann",
+     "SA Engelbrecht",
+     "SA Edwards",
+     "BFW de Leede",
+     "AT Nidamanuru",
+     "LV van Beek",
+     "RE van der Merwe",
+     "A Dutt",
+     "PA van Meekeren"
+    ]
+   },
+   "innings": [
+    {
+     "team": "India",
+     "runs": 410,
+     "wickets": 4,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "RG Sharma",
+       "runs": 61,
+       "balls": 54,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Shubman Gill",
+       "runs": 51,
+       "balls": 32,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "V Kohli",
+       "runs": 51,
+       "balls": 56,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "SS Iyer",
+       "runs": 128,
+       "balls": 94,
+       "out": false
+      },
+      {
+       "pos": 5,
+       "name": "KL Rahul",
+       "runs": 102,
+       "balls": 64,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "SA Yadav",
+       "runs": 2,
+       "balls": 1,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "A Dutt",
+       "balls": 42,
+       "runs": 52,
+       "wickets": 0
+      },
+      {
+       "name": "LV van Beek",
+       "balls": 60,
+       "runs": 107,
+       "wickets": 0
+      },
+      {
+       "name": "CN Ackermann",
+       "balls": 18,
+       "runs": 25,
+       "wickets": 0
+      },
+      {
+       "name": "PA van Meekeren",
+       "balls": 60,
+       "runs": 90,
+       "wickets": 1
+      },
+      {
+       "name": "RE van der Merwe",
+       "balls": 60,
+       "runs": 53,
+       "wickets": 1
+      },
+      {
+       "name": "BFW de Leede",
+       "balls": 60,
+       "runs": 82,
+       "wickets": 2
+      }
+     ]
+    },
+    {
+     "team": "Netherlands",
+     "runs": 250,
+     "wickets": 10,
+     "overs": "47.5",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "W Barresi",
+       "runs": 4,
+       "balls": 5,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "MP O'Dowd",
+       "runs": 30,
+       "balls": 42,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "CN Ackermann",
+       "runs": 35,
+       "balls": 32,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "SA Engelbrecht",
+       "runs": 45,
+       "balls": 80,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "SA Edwards",
+       "runs": 17,
+       "balls": 30,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "BFW de Leede",
+       "runs": 12,
+       "balls": 21,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "AT Nidamanuru",
+       "runs": 54,
+       "balls": 39,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "LV van Beek",
+       "runs": 16,
+       "balls": 15,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "RE van der Merwe",
+       "runs": 16,
+       "balls": 8,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "A Dutt",
+       "runs": 5,
+       "balls": 11,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "PA van Meekeren",
+       "runs": 3,
+       "balls": 4,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "JJ Bumrah",
+       "balls": 54,
+       "runs": 33,
+       "wickets": 2
+      },
+      {
+       "name": "Mohammed Siraj",
+       "balls": 36,
+       "runs": 29,
+       "wickets": 2
+      },
+      {
+       "name": "Mohammed Shami",
+       "balls": 36,
+       "runs": 41,
+       "wickets": 0
+      },
+      {
+       "name": "Kuldeep Yadav",
+       "balls": 60,
+       "runs": 41,
+       "wickets": 2
+      },
+      {
+       "name": "RA Jadeja",
+       "balls": 54,
+       "runs": 49,
+       "wickets": 2
+      },
+      {
+       "name": "V Kohli",
+       "balls": 18,
+       "runs": 13,
+       "wickets": 1
+      },
+      {
+       "name": "Shubman Gill",
+       "balls": 12,
+       "runs": 11,
+       "wickets": 0
+      },
+      {
+       "name": "SA Yadav",
+       "balls": 12,
+       "runs": 17,
+       "wickets": 0
+      },
+      {
+       "name": "RG Sharma",
+       "balls": 5,
+       "runs": 7,
+       "wickets": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384437",
+   "date": "2023-11-15",
+   "match_number": 46,
+   "stage": "semi-final",
+   "teams": [
+    "India",
+    "New Zealand"
+   ],
+   "winner": "India",
+   "margin": {
+    "runs": 70
+   },
+   "player_of_match": [
+    "Mohammed Shami"
+   ],
+   "playing_xi": {
+    "India": [
+     "RG Sharma",
+     "Shubman Gill",
+     "V Kohli",
+     "SS Iyer",
+     "KL Rahul",
+     "SA Yadav",
+     "RA Jadeja",
+     "JJ Bumrah",
+     "Mohammed Shami",
+     "Kuldeep Yadav",
+     "Mohammed Siraj"
+    ],
+    "New Zealand": [
+     "DP Conway",
+     "R Ravindra",
+     "KS Williamson",
+     "DJ Mitchell",
+     "TWM Latham",
+     "GD Phillips",
+     "MS Chapman",
+     "MJ Santner",
+     "TG Southee",
+     "TA Boult",
+     "LH Ferguson"
+    ]
+   },
+   "innings": [
+    {
+     "team": "India",
+     "runs": 397,
+     "wickets": 4,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "RG Sharma",
+       "runs": 47,
+       "balls": 29,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Shubman Gill",
+       "runs": 80,
+       "balls": 66,
+       "out": false
+      },
+      {
+       "pos": 3,
+       "name": "V Kohli",
+       "runs": 117,
+       "balls": 113,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "SS Iyer",
+       "runs": 105,
+       "balls": 70,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "KL Rahul",
+       "runs": 39,
+       "balls": 20,
+       "out": false
+      },
+      {
+       "pos": 6,
+       "name": "SA Yadav",
+       "runs": 1,
+       "balls": 2,
+       "out": true
+      }
+     ],
+     "bowling": [
+      {
+       "name": "TA Boult",
+       "balls": 60,
+       "runs": 86,
+       "wickets": 1
+      },
+      {
+       "name": "TG Southee",
+       "balls": 60,
+       "runs": 100,
+       "wickets": 3
+      },
+      {
+       "name": "MJ Santner",
+       "balls": 60,
+       "runs": 51,
+       "wickets": 0
+      },
+      {
+       "name": "LH Ferguson",
+       "balls": 48,
+       "runs": 65,
+       "wickets": 0
+      },
+      {
+       "name": "R Ravindra",
+       "balls": 42,
+       "runs": 60,
+       "wickets": 0
+      },
+      {
+       "name": "GD Phillips",
+       "balls": 30,
+       "runs": 33,
+       "wickets": 0
+      }
+     ]
+    },
+    {
+     "team": "New Zealand",
+     "runs": 327,
+     "wickets": 10,
+     "overs": "48.5",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "DP Conway",
+       "runs": 13,
+       "balls": 15,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "R Ravindra",
+       "runs": 13,
+       "balls": 22,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "KS Williamson",
+       "runs": 69,
+       "balls": 73,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "DJ Mitchell",
+       "runs": 134,
+       "balls": 119,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "TWM Latham",
+       "runs": 0,
+       "balls": 2,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "GD Phillips",
+       "runs": 41,
+       "balls": 33,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "MS Chapman",
+       "runs": 2,
+       "balls": 5,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "MJ Santner",
+       "runs": 9,
+       "balls": 10,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "TG Southee",
+       "runs": 9,
+       "balls": 10,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "TA Boult",
+       "runs": 2,
+       "balls": 2,
+       "out": false
+      },
+      {
+       "pos": 11,
+       "name": "LH Ferguson",
+       "runs": 6,
+       "balls": 3,
+       "out": true
+      }
+     ],
+     "bowling": [
+      {
+       "name": "JJ Bumrah",
+       "balls": 60,
+       "runs": 64,
+       "wickets": 1
+      },
+      {
+       "name": "Mohammed Siraj",
+       "balls": 54,
+       "runs": 78,
+       "wickets": 1
+      },
+      {
+       "name": "Mohammed Shami",
+       "balls": 59,
+       "runs": 57,
+       "wickets": 7
+      },
+      {
+       "name": "RA Jadeja",
+       "balls": 60,
+       "runs": 63,
+       "wickets": 0
+      },
+      {
+       "name": "Kuldeep Yadav",
+       "balls": 60,
+       "runs": 56,
+       "wickets": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384438",
+   "date": "2023-11-16",
+   "match_number": 47,
+   "stage": "semi-final",
+   "teams": [
+    "South Africa",
+    "Australia"
+   ],
+   "winner": "Australia",
+   "margin": {
+    "wickets": 3
+   },
+   "player_of_match": [
+    "TM Head"
+   ],
+   "playing_xi": {
+    "South Africa": [
+     "Q de Kock",
+     "T Bavuma",
+     "HE van der Dussen",
+     "AK Markram",
+     "H Klaasen",
+     "DA Miller",
+     "M Jansen",
+     "G Coetzee",
+     "KA Maharaj",
+     "K Rabada",
+     "T Shamsi"
+    ],
+    "Australia": [
+     "TM Head",
+     "DA Warner",
+     "MR Marsh",
+     "SPD Smith",
+     "M Labuschagne",
+     "GJ Maxwell",
+     "JP Inglis",
+     "MA Starc",
+     "PJ Cummins",
+     "A Zampa",
+     "JR Hazlewood"
+    ]
+   },
+   "innings": [
+    {
+     "team": "South Africa",
+     "runs": 212,
+     "wickets": 10,
+     "overs": "49.4",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "Q de Kock",
+       "runs": 3,
+       "balls": 14,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "T Bavuma",
+       "runs": 0,
+       "balls": 4,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "HE van der Dussen",
+       "runs": 6,
+       "balls": 31,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "AK Markram",
+       "runs": 10,
+       "balls": 20,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "H Klaasen",
+       "runs": 47,
+       "balls": 48,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "DA Miller",
+       "runs": 101,
+       "balls": 116,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "M Jansen",
+       "runs": 0,
+       "balls": 1,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "G Coetzee",
+       "runs": 19,
+       "balls": 39,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "KA Maharaj",
+       "runs": 4,
+       "balls": 8,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "K Rabada",
+       "runs": 10,
+       "balls": 12,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "T Shamsi",
+       "runs": 1,
+       "balls": 5,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "MA Starc",
+       "balls": 60,
+       "runs": 34,
+       "wickets": 3
+      },
+      {
+       "name": "JR Hazlewood",
+       "balls": 48,
+       "runs": 12,
+       "wickets": 2
+      },
+      {
+       "name": "PJ Cummins",
+       "balls": 58,
+       "runs": 51,
+       "wickets": 3
+      },
+      {
+       "name": "A Zampa",
+       "balls": 42,
+       "runs": 55,
+       "wickets": 0
+      },
+      {
+       "name": "GJ Maxwell",
+       "balls": 60,
+       "runs": 35,
+       "wickets": 0
+      },
+      {
+       "name": "TM Head",
+       "balls": 30,
+       "runs": 21,
+       "wickets": 2
+      }
+     ]
+    },
+    {
+     "team": "Australia",
+     "runs": 215,
+     "wickets": 7,
+     "overs": "47.2",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "TM Head",
+       "runs": 62,
+       "balls": 48,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "DA Warner",
+       "runs": 29,
+       "balls": 18,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "MR Marsh",
+       "runs": 0,
+       "balls": 6,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "SPD Smith",
+       "runs": 30,
+       "balls": 62,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "M Labuschagne",
+       "runs": 18,
+       "balls": 31,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "GJ Maxwell",
+       "runs": 1,
+       "balls": 5,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "JP Inglis",
+       "runs": 28,
+       "balls": 49,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "MA Starc",
+       "runs": 16,
+       "balls": 38,
+       "out": false
+      },
+      {
+       "pos": 9,
+       "name": "PJ Cummins",
+       "runs": 14,
+       "balls": 29,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "M Jansen",
+       "balls": 26,
+       "runs": 35,
+       "wickets": 0
+      },
+      {
+       "name": "K Rabada",
+       "balls": 36,
+       "runs": 41,
+       "wickets": 1
+      },
+      {
+       "name": "AK Markram",
+       "balls": 48,
+       "runs": 23,
+       "wickets": 1
+      },
+      {
+       "name": "G Coetzee",
+       "balls": 54,
+       "runs": 47,
+       "wickets": 2
+      },
+      {
+       "name": "T Shamsi",
+       "balls": 60,
+       "runs": 42,
+       "wickets": 2
+      },
+      {
+       "name": "KA Maharaj",
+       "balls": 60,
+       "runs": 24,
+       "wickets": 1
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1384439",
+   "date": "2023-11-19",
+   "match_number": 48,
+   "stage": "final",
+   "teams": [
+    "India",
+    "Australia"
+   ],
+   "winner": "Australia",
+   "margin": {
+    "wickets": 6
+   },
+   "player_of_match": [
+    "TM Head"
+   ],
+   "playing_xi": {
+    "India": [
+     "RG Sharma",
+     "Shubman Gill",
+     "V Kohli",
+     "SS Iyer",
+     "KL Rahul",
+     "RA Jadeja",
+     "SA Yadav",
+     "Mohammed Shami",
+     "JJ Bumrah",
+     "Kuldeep Yadav",
+     "Mohammed Siraj"
+    ],
+    "Australia": [
+     "DA Warner",
+     "TM Head",
+     "MR Marsh",
+     "SPD Smith",
+     "M Labuschagne",
+     "GJ Maxwell",
+     "JP Inglis",
+     "MA Starc",
+     "PJ Cummins",
+     "A Zampa",
+     "JR Hazlewood"
+    ]
+   },
+   "innings": [
+    {
+     "team": "India",
+     "runs": 240,
+     "wickets": 10,
+     "overs": "50.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "RG Sharma",
+       "runs": 47,
+       "balls": 31,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "Shubman Gill",
+       "runs": 4,
+       "balls": 7,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "V Kohli",
+       "runs": 54,
+       "balls": 63,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "SS Iyer",
+       "runs": 4,
+       "balls": 3,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "KL Rahul",
+       "runs": 66,
+       "balls": 107,
+       "out": true
+      },
+      {
+       "pos": 6,
+       "name": "RA Jadeja",
+       "runs": 9,
+       "balls": 22,
+       "out": true
+      },
+      {
+       "pos": 7,
+       "name": "SA Yadav",
+       "runs": 18,
+       "balls": 28,
+       "out": true
+      },
+      {
+       "pos": 8,
+       "name": "Mohammed Shami",
+       "runs": 6,
+       "balls": 10,
+       "out": true
+      },
+      {
+       "pos": 9,
+       "name": "JJ Bumrah",
+       "runs": 1,
+       "balls": 3,
+       "out": true
+      },
+      {
+       "pos": 10,
+       "name": "Kuldeep Yadav",
+       "runs": 10,
+       "balls": 18,
+       "out": true
+      },
+      {
+       "pos": 11,
+       "name": "Mohammed Siraj",
+       "runs": 9,
+       "balls": 8,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "MA Starc",
+       "balls": 60,
+       "runs": 55,
+       "wickets": 3
+      },
+      {
+       "name": "JR Hazlewood",
+       "balls": 60,
+       "runs": 60,
+       "wickets": 2
+      },
+      {
+       "name": "GJ Maxwell",
+       "balls": 36,
+       "runs": 35,
+       "wickets": 1
+      },
+      {
+       "name": "PJ Cummins",
+       "balls": 60,
+       "runs": 34,
+       "wickets": 2
+      },
+      {
+       "name": "A Zampa",
+       "balls": 60,
+       "runs": 44,
+       "wickets": 1
+      },
+      {
+       "name": "MR Marsh",
+       "balls": 12,
+       "runs": 5,
+       "wickets": 0
+      },
+      {
+       "name": "TM Head",
+       "balls": 12,
+       "runs": 4,
+       "wickets": 0
+      }
+     ]
+    },
+    {
+     "team": "Australia",
+     "runs": 241,
+     "wickets": 4,
+     "overs": "43.0",
+     "batting": [
+      {
+       "pos": 1,
+       "name": "DA Warner",
+       "runs": 7,
+       "balls": 3,
+       "out": true
+      },
+      {
+       "pos": 2,
+       "name": "TM Head",
+       "runs": 137,
+       "balls": 120,
+       "out": true
+      },
+      {
+       "pos": 3,
+       "name": "MR Marsh",
+       "runs": 15,
+       "balls": 15,
+       "out": true
+      },
+      {
+       "pos": 4,
+       "name": "SPD Smith",
+       "runs": 4,
+       "balls": 9,
+       "out": true
+      },
+      {
+       "pos": 5,
+       "name": "M Labuschagne",
+       "runs": 58,
+       "balls": 110,
+       "out": false
+      },
+      {
+       "pos": 6,
+       "name": "GJ Maxwell",
+       "runs": 2,
+       "balls": 1,
+       "out": false
+      }
+     ],
+     "bowling": [
+      {
+       "name": "JJ Bumrah",
+       "balls": 54,
+       "runs": 43,
+       "wickets": 2
+      },
+      {
+       "name": "Mohammed Shami",
+       "balls": 42,
+       "runs": 47,
+       "wickets": 1
+      },
+      {
+       "name": "RA Jadeja",
+       "balls": 60,
+       "runs": 43,
+       "wickets": 0
+      },
+      {
+       "name": "Kuldeep Yadav",
+       "balls": 60,
+       "runs": 56,
+       "wickets": 0
+      },
+      {
+       "name": "Mohammed Siraj",
+       "balls": 42,
+       "runs": 45,
+       "wickets": 1
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
