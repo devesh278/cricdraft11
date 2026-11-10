@@ -32,6 +32,7 @@ import { MinimalMatchResult } from './components/match/MinimalMatchResult';
 import { TournamentPath } from './components/tournament/TournamentPath';
 import { FinalSummary } from './components/tournament/FinalSummary';
 import { Trophy } from 'lucide-react';
+import { Analytics } from '@vercel/analytics/react';
 
 export function App() {
   // Theme state
@@ -527,6 +528,7 @@ export function App() {
       <footer className="border-t border-stone-200 dark:border-slate-800 bg-[#f5f4ef] dark:bg-slate-950 py-4 text-center text-xs text-stone-500 dark:text-slate-500">
         <p>CricDraft &bull; World Cup Cricket Run &bull; ODI World Cups (2003&ndash;2023)</p>
       </footer>
+      <Analytics />
     </div>
   );
 }
